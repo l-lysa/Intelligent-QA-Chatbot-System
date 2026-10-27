@@ -1,0 +1,16 @@
+DENGUE QA SYSTEM EVALUATION RESULTS
+==================================================
+
+Training samples: 104
+Testing samples: 45
+
+Overall Performance:
+- Exact Match Accuracy: 0.00%
+- Category Accuracy: 95.56%
+- Retrieval Success Rate: 97.78%
+- Average Similarity: 0.9083
+
+Classification Metrics:
+- Precision: 0.9567
+- Recall: 0.9556
+- F1-Score: 0.9556

@@ -1,0 +1,2025 @@
+@prefix ex: <http://example.org/dengue#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/dengue/qa1> a ex:QA_Pair ;
+    ex:answer_english "It is a potentially deadly disease spread by infected aedes aedes mosquitoes." ;
+    ex:answer_malay "Ia adalah penyakit berpotensi maut yang tersebar oleh nyamuk Aedes Aegypti yang dijangkiti." ;
+    ex:category 1 ;
+    ex:question_english "what is dengue" ;
+    ex:question_malay "apakah denggi" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/6-cara-merawat-demam-denggi/" .
+
+<http://example.org/dengue/qa10> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever is a disease caused by aedes mosquitoes or more precisely 2 types of Aedes Aegypti and Aedes Albopictus mosquitoes.This dengue virus is contagious in humans through female aedes mosquito bites that are usually early in the morning and dusk." ;
+    ex:answer_malay "Demam Denggi merupakan sejenis penyakit yang disebabkan oleh nyamuk aedes atau lebih tepat lagi 2 jenis nyamuk aedes aegypti dan aedes albopictus. Virus demam denggi ini berjangkit pada manusia melalui gigitan nyamuk aedes betina yang biasanya banyak pada sebelah awal pagi dan senja." ;
+    ex:category 1 ;
+    ex:question_english "what is the main cause of dengue" ;
+    ex:question_malay "apakah punca utama berlakunya denggi" ;
+    ex:source "https://mamaqaireen.com/8-cara-mudah-merawat-demam-denggi/" .
+
+<http://example.org/dengue/qa100> a ex:QA_Pair ;
+    ex:answer_english """~ Orange.
+~ Soup.
+~ Vegetable juice and fruits.
+~ Coconut water.
+~ Porridge.""" ;
+    ex:answer_malay """~ Oren.
+~ Sup.
+~ Jus sayuran dan buah-buahan.
+~ Air kelapa.
+~ Bubur.""" ;
+    ex:category 3 ;
+    ex:question_english "what is the best food to recover quickly" ;
+    ex:question_malay "apakah makanan terbaik supaya cepat sembuh" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/diet-yang-disyorkan-untuk-pesakit-denggi/" .
+
+<http://example.org/dengue/qa101> a ex:QA_Pair ;
+    ex:answer_english """~ Coconut water.
+~ Orange juice or lemon juice.
+~ Papaya leaves.
+~ Vegetable soup.
+~ Rice porridge.
+~ Fruits.""" ;
+    ex:answer_malay """~ Air kelapa.
+~ Jus oren atau air limau.
+~ Daun betik.
+~ Sup sayur.
+~ Bubur nasi.
+~ Buah-buahan.""" ;
+    ex:category 3 ;
+    ex:question_english "what are the suitable foods and drinks for dengue fever patients" ;
+    ex:question_malay "apakah makanan dan minuman yang sesuai untuk pesakit demam denggi" ;
+    ex:source "https://helomedik.com/makanan-untuk-demam-denggi/" .
+
+<http://example.org/dengue/qa102> a ex:QA_Pair ;
+    ex:answer_english """~ Rest enough.
+~ Drink plenty of liquids such as milk, fruit juices, isotonic drinks and barley water (drink over 5 glasses).Drinking empty water alone is not enough.
+~ Take fever medication such as paracetamol according to your doctor's advice.
+~ - Wipe the body with a wet cloth to reduce body temperature.
+~ - If possible, use mosquito or mosquito repellent to prevent mosquito bites.
+~ -Find and destroy the breeding grounds of aedes mosquitoes indoors and outdoors.""" ;
+    ex:answer_malay """~ Berehat secukupnya.
+~ Banyakkan minum cecair seperti susu, jus buah-buahan, minuman isotonik dan air barli (minum melebihi 5 gelas). Meminum air kosong sahaja adalah tidak mencukupi.
+~ Makan ubat demam seperti paracetamol mengikut nasihat doktor.
+~ -      Lap badan dengan kain basah bagi mengurangkan suhu badan.
+~ -      Jika boleh, guna ubat nyamuk atau kelambu untuk mengelak gigitan nyamuk.
+~ -      Cari dan musnah tempat-tempat pembiakan jentik-jentik nyamuk aedes di dalam dan luar rumah.""" ;
+    ex:category 3 ;
+    ex:question_english "what is a patient care guide at home" ;
+    ex:question_malay "apakah panduan penjagaan pesakit di rumah" ;
+    ex:source "https://mutiara-online13.blogspot.com/2012/11/fakta-aedes-atau-denggi.html" .
+
+<http://example.org/dengue/qa103> a ex:QA_Pair ;
+    ex:answer_english """~ Drink plenty of water to prevent the body from hydration.
+~ Drink coconut water, isotonic water and fruit juice to prevent the body from tiredness.
+~ Get enough rest.
+~ Take panadol to relieve fever.
+~ Practice the soup.""" ;
+    ex:answer_malay """~ Minum air yang banyak untuk menghindari badan daripada hidrasi.
+~ Minum air kelapa, air isotonik dan jus buah untuk menghindari badan daripada rasa letih.
+~ Dapatkan rehat yang cukup.
+~ Ambil panadol bagi melegakan demam.
+~ Amalkan penambilan sup.""" ;
+    ex:category 3 ;
+    ex:question_english "how to treat dengue fever" ;
+    ex:question_malay "bagaimana rawat demam denggi" ;
+    ex:source "https://tanyadrakbar.com/demam-denggi-punca-simptom-tips-rawatan/" .
+
+<http://example.org/dengue/qa104> a ex:QA_Pair ;
+    ex:answer_english """~ Orange.
+~ Porridge, between foods for dengue fever.
+~ Coconut water.
+~ Vegetable juice and fruits.
+~ Soup.""" ;
+    ex:answer_malay """~ Oren.
+~ Bubur, antara makanan untuk demam denggi.
+~ Air kelapa.
+~ Jus sayuran dan buah-buahan.
+~ Sup.""" ;
+    ex:category 3 ;
+    ex:question_english "what is the choice of food for dengue fever" ;
+    ex:question_malay "apakah pilihan makanan untuk demam denggi" ;
+    ex:source "https://hellodoktor.com/berjangkit/keracunan-makanan/telur-ayam-salmonella/" .
+
+<http://example.org/dengue/qa105> a ex:QA_Pair ;
+    ex:answer_english "The first thing to do is see a doctor if you have symptoms and suspect it is dengue.Ask your family members or friends to send you to the nearest hospital if you can't drive." ;
+    ex:answer_malay "Perkara pertama yang perlu dilakukan adalah berjumpa doktor jika anda mengalami simptom dan mengesyaki ia adalah denggi. Minta ahli keluarga atau rakan untuk menghantar anda ke hospital terdekat jika anda tidak dapat memandu." ;
+    ex:category 3 ;
+    ex:question_english "what to do if you have dengue" ;
+    ex:question_malay "apakah yang perlu dilakukan jika anda menghidap denggi" ;
+    ex:source "https://gleneagles.com.my/ms/health-digest/dengue-fever-and-symptoms#:~:text=Simptom%20biasanya%20berlangsung%20selama%202,daripada%20demam%20denggi%20selepas%20seminggu." .
+
+<http://example.org/dengue/qa106> a ex:QA_Pair ;
+    ex:answer_english """~ Clinical Assessment: Doctors will ask questions and examine your symptoms.They may also ask about your recent travel history.
+~ Blood and other tests: Doctors will take blood tests to keep your blood and organs in good condition.Blood tests can help detect infections and health complications in advance.This test may also detect dengue antibodies in your blood.""" ;
+    ex:answer_malay """~ Penilaian Klinikal: Doktor akan bertanya soalan dan memeriksa gejala anda. Mereka juga mungkin bertanya tentang sejarah perjalanan anda baru-baru ini.
+~ Ujian Darah dan Lain: Doktor akan mengambil ujian darah untuk memastikan darah dan organ anda berada dalam keadaan baik. Ujian darah boleh membantu mengesan jangkitan dan komplikasi kesihatan lebih awal. Ujian ini juga mungkin mengesan antibodi denggi dalam darah anda.""" ;
+    ex:category 3 ;
+    ex:question_english "what is the way to diagnose dengue" ;
+    ex:question_malay "apakah cara mendiagnosis denggi" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/fasa-fasa-denggi" .
+
+<http://example.org/dengue/qa107> a ex:QA_Pair ;
+    ex:answer_english """~ Tourniquet tests - using blood pressure testing tools and stethoscopes;Over 20 red or black spots arise.
+~ Laboratory tests - such as blood cells and platelets, blood concentration, albumin, liver function tests and blood presence tests in urine.
+~ Dengue -specific tests - virus identification tests or serological tests.Specific tests can determine the form of dengue virus infection by detecting IgG and IgM antibodies.IgM is produced if a new infection occurs, under two weeks.After two weeks of recovering, the patient will form a memory antibody (IgG) to oppose the same type of virus (permanent protection).""" ;
+    ex:answer_malay """~ Ujian Tourniquet - menggunakan alat menguji tekanan darah dan stetoskop; lebih 20 bintik merah atau hitam timbul.
+~ Ujian makmal - seperti kiraan sel darah dan platelet, kepekatan darah, albumin, ujian fungsi hati dan ujian kehadiran darah dalam air kencing.
+~ Ujian khusus denggi - ujian mengenalpasti virus atau ujian serologi. Ujian khusus dapat menentukan bentuk jangkitan virus denggi dengan mengesan antibodi IgG dan IgM. IgM dihasilkan jika jangkitan baru berlaku, di bawah dua minggu. Selepas dua minggu pulih, pesakit akan membentuk antibodi memori (IgG) pula untuk menentang jenis virus yang sama kelak (perlindungan kekal).""" ;
+    ex:category 3 ;
+    ex:question_english "what is a check for dengue fever" ;
+    ex:question_malay "apakah pemeriksaan untuk demam denggi" ;
+    ex:source "https://kumpulanperubatanelektronikterengganu.blogspot.com/2010/04/demam-denggi.html" .
+
+<http://example.org/dengue/qa108> a ex:QA_Pair ;
+    ex:answer_english """~ Rest and sleep enough.
+~ Enough fluid wrinkles with calorie drinks, such as milk or fruit juice, but not with white water.
+~ Maintain body temperature to not exceed 39 ° C, for example with warm water compress.
+~ Consuming paracetamol for fever over 39 ° C.""" ;
+    ex:answer_malay """~ Beristirahat dan tidur yang cukup.
+~ Mencukupi kebutuhan cairan dengan minuman yang berkalori, seperti susu atau jus buah, tetapi tidak dengan air putih.
+~ Menjaga suhu tubuh agar tidak melebihi 39°C, misalnya dengan kompres air hangat.
+~ Mengonsumsi paracetamol untuk demam yang lebih dari 39°C.""" ;
+    ex:category 3 ;
+    ex:question_english "what is the treatment of dengue fever" ;
+    ex:question_malay "apakah pengobatan demam denggi" ;
+    ex:source "https://www.alodokter.com/demam-dengue" .
+
+<http://example.org/dengue/qa109> a ex:QA_Pair ;
+    ex:answer_english """~ TES Antigen NS1, to detect the existence of the dengue virus, which can be done on the day to 0–7 since the symptoms appear.
+~ TES IGG and IGM, to detect antibodies against the dengue virus, which is usually done 4–5 days after symptoms appear.
+~ Calculate the complete blood, to find out the rate of white blood cells, hematocrit levels, and thrombocytes, which are made from the 4th day since fever appears.""" ;
+    ex:answer_malay """~ Tes antigen NS1, untuk mendeteksi keberadaan virus Dengue, yang dapat dilakukan pada hari ke 0–7 sejak gejala muncul.
+~ Tes IgG dan IgM, untuk mendeteksi antibodi terhadap virus Dengue, yang biasanya dilakukan 4–5 hari setelah gejala muncul.
+~ Hitung darah lengkap, untuk mengetahui kadar sel darah putih, kadar hematokrit, dan trombosit, yang dilakukan mulai hari ke-4 sejak muncul demam.""" ;
+    ex:category 3 ;
+    ex:question_english "what is the diagnosis of dengue fever" ;
+    ex:question_malay "apakah diagnosis demam denggi" ;
+    ex:source "https://www.alodokter.com/demam-dengue" .
+
+<http://example.org/dengue/qa11> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever is a potentially fatal disease caused by the dengue virus.Dengue is a complex disease caused by four different types of viruses (DENV-1, 2, 3 and 4)" ;
+    ex:answer_malay "Demam denggi adalah penyakit yang berpotensi membawa maut yang disebabkan oleh virus denggi. Denggi adalah penyakit kompleks yang disebabkan oleh empat jenis virus yang berbeza (DENV-1, 2, 3 dan 4)" ;
+    ex:category 1 ;
+    ex:question_english "what is dengue and its kind" ;
+    ex:question_malay "apakah denggi dan jenisnya" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/kesan-deman-denggi" .
+
+<http://example.org/dengue/qa110> a ex:QA_Pair ;
+    ex:answer_english "Dengue vaccines have been developed to reduce the risk of dengue infections among populations living in high -risk areas.However, the use of the vaccine is limited and is only recommended for individuals who have been infected with dengue before, as there is a risk that the vaccine can cause more serious complications for those who have never been infected." ;
+    ex:answer_malay "Vaksin denggi telah dibangunkan untuk mengurangkan risiko jangkitan denggi dalam kalangan populasi yang tinggal di kawasan berisiko tinggi. Namun, penggunaan vaksin ini adalah terhad dan hanya disyorkan kepada individu yang pernah dijangkiti denggi sebelum ini, kerana terdapat risiko bahawa vaksin ini boleh menyebabkan komplikasi yang lebih serius bagi mereka yang belum pernah dijangkiti." ;
+    ex:category 3 ;
+    ex:question_english "is there a vaccine for dengue" ;
+    ex:question_malay "adakah terdapat vaksin untuk denggi" ;
+    ex:source "https://limausuam.com/adakah-denggi-berjangkit-tentang-penyebaran-dan-pencegahan/" .
+
+<http://example.org/dengue/qa111> a ex:QA_Pair ;
+    ex:answer_english "There is still no special treatment for dengue fever.Patients with symptoms and show symptoms of dengue fever should seek immediate treatment.Patients will be given a fever medication and are advised to rest and are encouraged to drink water.The patient will be admitted to the ward if he is suspected of having dengue fever." ;
+    ex:answer_malay "Masih tiada rawatan khas untuk demam denggi. Pesakit yang mengalami tanda-tanda dan menunjukkan gejala-gejala demam denggi hendaklah mendapatkan rawatan segera. Pesakit akan diberikan ubat demam dan dinasihatkan berehat serta digalakkan minum air. Pesakit akan dimasukkan ke dalam wad sekiranya disyaki menghidap demam denggi berdarah." ;
+    ex:category 3 ;
+    ex:question_english "what is a special treatment for dengue fever" ;
+    ex:question_malay "apakah rawatan khas untuk demam denggi" ;
+    ex:source "https://people.utm.my/mshahrulnizam/info-sihat/mencegah-jangkitan-penyakit-demam-denggi/" .
+
+<http://example.org/dengue/qa112> a ex:QA_Pair ;
+    ex:answer_english """~ Provided drugs and electrolytes through intravenous drops (IV).
+~ Monitor blood pressure.
+~ Doing blood transfusions or platelets if necessary.""" ;
+    ex:answer_malay """~ diberikan ubat-ubatan dan elektrolit melalui titisan intravena (IV).
+~ mengawasi tekanan darah.
+~ melakukan pemindahan darah atau platelet jika perlu.""" ;
+    ex:category 3 ;
+    ex:question_english "what is the treatment of dengue fever" ;
+    ex:question_malay "apakah rawatan demam denggi berdarah" ;
+    ex:source "https://www.homage.com.my/health/demam-denggi-bm/" .
+
+<http://example.org/dengue/qa113> a ex:QA_Pair ;
+    ex:answer_english """~ Provides paracetamol prescriptions to relieve fever and body aches.
+~ Suggested for a lot of rest.
+~ Advise to increase drinking water to maintain hydration of the body.
+~ Avoid being bitten by mosquitoes by taking steps.Prevention around the house.""" ;
+    ex:answer_malay """~ memberi preskripsi paracetamol untuk melegakan demam dan sakit badan.
+~ menyaran untuk banyak berehat.
+~ menasihati untuk memperbanyak minum air bagi mengekalkan hidrasi badan.
+~ mengelak daripada digigit nyamuk dengan mengambil langkah. pencegahan di sekeliling rumah.""" ;
+    ex:category 3 ;
+    ex:question_english "what is the treatment of classic dengue fever" ;
+    ex:question_malay "apakah rawatan demam denggi klasik" ;
+    ex:source "https://www.homage.com.my/health/demam-denggi-bm/" .
+
+<http://example.org/dengue/qa114> a ex:QA_Pair ;
+    ex:answer_english "Only need to undergo symptomatic treatment, take paractemol to handle fever, get rest and drink enough water daily.Maintains good urinary habits, and receives clinical examination and blood analysis to monitor the body's condition." ;
+    ex:answer_malay "Hanya perlu menjalani rawatan simtomatik, mengambil Paractemol untuk mengendali demam, mendapat rehat and minum air yang mencukupi setiap hari. Mengekalkan tabiat kencing yang baik, dan menerima pemeriksaan klinikal dan analisis darah untuk memantau keadaan badan." ;
+    ex:category 3 ;
+    ex:question_english "what kind of treatment for light conditions" ;
+    ex:question_malay "apakah jenis rawatan untuk keadaan ringan" ;
+    ex:source "https://health.insuresavvy.com.my/ms_MY/dengue-fever/" .
+
+<http://example.org/dengue/qa115> a ex:QA_Pair ;
+    ex:answer_english "Destroy the breeding grounds of mosquitoes, protect yourself from mosquito bites and reduce visiting or activity in high -risk areas of dengue." ;
+    ex:answer_malay "Memusnahkan tempat pembiakan nyamuk, melindungi diri daripada gigitan nyamuk dan kurangkan melawat atau beraktiviti di kawasan berisiko tinggi denggi." ;
+    ex:category 4 ;
+    ex:question_english "what are the dengue prevention measures" ;
+    ex:question_malay "apakah langkah pencengahan denggi" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/6-cara-merawat-demam-denggi/" .
+
+<http://example.org/dengue/qa116> a ex:QA_Pair ;
+    ex:answer_english """~ Clean your surroundings from a condition that promotes mosquito breeding.
+~ Wear clothes that can cover your body as much as possible.
+~ Use an insect repellent, sleep under the mosquito net, close the door and window or make sure the net is installed.""" ;
+    ex:answer_malay """~ Bersihkan persekitaran anda daripada keadaan yang menggalakkan pembiakan nyamuk.
+~ Pakai pakaian yang boleh menutupi badan anda sebanyak mungkin.
+~ Gunakan penghalau serangga, tidur di bawah kelambu, tutup pintu dan tingkap atau pastikan jaring dipasang.""" ;
+    ex:category 4 ;
+    ex:question_english "how to prevent dengue" ;
+    ex:question_malay "bagaimana cegah denggi" ;
+    ex:source "https://www.pantai.com.my/ms/health-pulse/dengue-fever#:~:text=Denggi%20tidak%20berjangkit%20daripada%20manusia,rawatan%20perubatan%20segera%20adalah%20penting." .
+
+<http://example.org/dengue/qa117> a ex:QA_Pair ;
+    ex:answer_english """~ Prevent Aedes mosquitoes from breeding.
+~ Cover the door and window or install the net.
+~ Use a mosquito repellent.
+~ Eliminate adult mosquitoes.
+~ Wear protective clothing.
+~ Time to get out.""" ;
+    ex:answer_malay """~ Mengelakkan nyamuk Aedes daripada membiak.
+~ Tutup pintu dan tingkap atau pasang jaring.
+~ Gunakan penghalau nyamuk.
+~ Hapuskan nyamuk dewasa.
+~ Pakai pakaian pelindung.
+~ Atur waktu untuk anda keluar.""" ;
+    ex:category 4 ;
+    ex:question_english "what is the way to prevent dengue outbreaks at home" ;
+    ex:question_malay "apakah cara mencegah wabak denggi di rumah" ;
+    ex:source "https://www.pantai.com.my/ms/health-pulse/dengue-fever#:~:text=Denggi%20tidak%20berjangkit%20daripada%20manusia,rawatan%20perubatan%20segera%20adalah%20penting." .
+
+<http://example.org/dengue/qa118> a ex:QA_Pair ;
+    ex:answer_english "Cleaning residential areas from mosquito breeding grounds." ;
+    ex:answer_malay "Membersihkan kawasan kediaman daripada tempat pembiakan nyamuk." ;
+    ex:category 4 ;
+    ex:question_english "how to prevent dengue fever" ;
+    ex:question_malay "bagaimana cegah demam denggi" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/makanan-untuk-demam-denggi" .
+
+<http://example.org/dengue/qa119> a ex:QA_Pair ;
+    ex:answer_english """~ Removing a container at risk for water reservoirs.
+~ Ensure water tanks and rainwater containers are closed.
+~ Ensure that flower pots and containers do not contain water to prevent mosquito breeding due to stagnant water.
+~ Make sure the roof channel is constantly flowing.
+~ Preserving fish in the pool can help reduce mosquito breeding.
+~ Use insect spray to kill mosquitoes.
+~ Use mosquito repellent products on limbs exposed to mosquito bites.
+~ Wear brightly colored clothes with long sleeves and long pants when outdoors.
+~ Install the mosquito net and repellent of electric mosquitoes in the closed area.
+~ Ensure windows and doors are closed tightly""" ;
+    ex:answer_malay """~ Membuang bekas yang berisiko menjadi tempat takungan air.
+~ Memastikan tangki air dan bekas penadah air hujan ditutup rapat.
+~ Memastikan pasu bunga dan bekas tidak mengandungi air bagi mengelakkan pembiakan nyamuk akibat air bertakung.
+~ Memastikan saluran atap sentiasa mengalir.
+~ Memelihara ikan dalam kolam boleh membantu mengurangkan pembiakan nyamuk.
+~ Menggunakan semburan serangga untuk membunuh nyamuk.
+~ Menggunakan produk penghalau nyamuk pada anggota badan yang terdedah kepada gigitan nyamuk.
+~ Memakai pakaian berwarna cerah dengan lengan panjang dan seluar panjang apabila berada di luar rumah.
+~ Memasang kelambu dan penghalau nyamuk elektrik di kawasan tertutup.
+~ Memastikan tingkap dan pintu ditutup rapat""" ;
+    ex:category 4 ;
+    ex:question_english "what are the best prevention for dengue" ;
+    ex:question_malay "apakah pencegahan terbaik untuk denggi" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/demam-denggi-parah" .
+
+<http://example.org/dengue/qa12> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever is a viral infection caused by ribonucleic acid (RNA) virus spread by infected female aedes mosquitoes.The infected female aedes mosquito will infect humans through bites." ;
+    ex:answer_malay "Demam denggi merupakan sejenis jangkitan virus yang disebabkan oleh Virus Asid Ribonukleik (RNA) yang disebarkan oleh nyamuk Aedes aegypti betina yang telah dijangkiti. Nyamuk Aedes aegypti betina yang telah dijangkiti  akan menjangkiti manusia melalui gigitan." ;
+    ex:category 1 ;
+    ex:question_english "what is dengue fever" ;
+    ex:question_malay "apa itu demam denggi" ;
+    ex:source "https://www.sistemguruonline.my/2023/12/10-cara-merawat-demam-denggi.html#google_vignette" .
+
+<http://example.org/dengue/qa120> a ex:QA_Pair ;
+    ex:answer_english """~ Destroy mosquito breeding grounds.
+~ Use self -protection.
+~ Put a mosquito net.
+~ Mosquito fog.
+~ Education and awareness.""" ;
+    ex:answer_malay """~ Musnahkan tempat pembiakan nyamuk.
+~ Gunakan perlindungan diri.
+~ Pasang jaring nyamuk.
+~ Kabut nyamuk.
+~ Pendidikan dan kesedaran.""" ;
+    ex:category 4 ;
+    ex:question_english "what is the way to avoid dengue fever" ;
+    ex:question_malay "apakah cara untuk elakkan terkena demam denggi" ;
+    ex:source "https://rootofscience.com/demam-denggi/" .
+
+<http://example.org/dengue/qa121> a ex:QA_Pair ;
+    ex:answer_english """~ Destroy mosquito breeding grounds.
+~ Wear a mosquito net for sleep at night if necessary.
+~ Use an insect spray.
+~ Use clothes with long arms.
+~ Close the house window early especially at dusk and dawn.""" ;
+    ex:answer_malay """~ Musnahkan tempat pembiakan nyamuk.
+~ Pakai kelambu untuk tidur pada waktu malam sekiranya perlu.
+~ Gunakan penyembur serangga.
+~ Guna pakaian dengan lengan yang panjang.
+~ Tutup tingkap rumah lebih awal terutamanya pada waktu senja dan subuh.""" ;
+    ex:category 4 ;
+    ex:question_english "how do i prevent dengue infections" ;
+    ex:question_malay "bagaimanakah cara mencegah jangkitan denggi" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/denggi-malaysia/" .
+
+<http://example.org/dengue/qa122> a ex:QA_Pair ;
+    ex:answer_english """~ Sit at home and close the windows and doors.
+~ Avoid engaging in dawn, dusk and early evening.
+~ Wear thick clothes, clothes and long pants.
+~ Sweep or spray mosquito medicine.
+~ Destroy the potential places to become a breeding area.""" ;
+    ex:answer_malay """~ Duduk di rumah dan tutup tingkap dan pintu.
+~ Elakkan daripada buat aktiviti luar pada waktu subuh, senja dan awal petang.
+~ Pakai pakaian tebal, baju dan seluar panjang.
+~ Sapu atau semburkan ubat nyamuk.
+~ Musnahkan tempat-tempat berpotensi untuk menjadi kawasan pembiakan.""" ;
+    ex:category 4 ;
+    ex:question_english "how to prevent dengue disease" ;
+    ex:question_malay "bagaimana cara untuk mencegah penyakit denggi" ;
+    ex:source "https://ohcantik.com/cara-mencegah-demam-denggi-langkah-yang-boleh-diambil-untuk-melindungi-nyawa-daripada-demam-maut-ini/" .
+
+<http://example.org/dengue/qa123> a ex:QA_Pair ;
+    ex:answer_english """~ Protect yourself from mosquito bites.
+~ Avoid visiting high -risk areas during the day.
+~ Destroy mosquito breeding grounds.
+~ Use insect sprayers to kill adult mosquitoes.""" ;
+    ex:answer_malay """~ Lindungi Diri Dari Gigitan Nyamuk.
+~ Elakkan Dari Membuat Lawatan ke Kawasan Berisiko Tinggi di Waktu Siang.
+~ Musnahkan Tempat Pembiakan Nyamuk.
+~ Guna penyembur serangga bg membunuh nyamuk dewasa.""" ;
+    ex:category 4 ;
+    ex:question_english "how to prevent dengue" ;
+    ex:question_malay "bagaimana cara untuk mencegah denggi" ;
+    ex:source "https://qasehmuslimah-munirah.blogspot.com/2011/10/apa-itu-demam-denggi.html" .
+
+<http://example.org/dengue/qa124> a ex:QA_Pair ;
+    ex:answer_english """~ Discard the container that can take water.
+~ Make sure the water tank, the raincoat should be closed.
+~ Make sure the flower pots and catchment containers are thrown away at least once a week.
+~ Make sure the roof drain is always flowing.
+~ Defend fish in a fish pond to reduce flies.
+~ Make sure the windows and doors are always closed.
+~ Apply mosquito repellent on members exposed to mosquito bites.
+~ Wear bright and long sleeves and long pants when out of the house.
+~ Pepter mosquito circles and electric mosquitoes in the closed area.""" ;
+    ex:answer_malay """~ Membuang bekas yang boleh menakung air.
+~ Pastikan tangki air, bekas tadahan hujan seharusnya ditutup.
+~ Pastikan pasu-pasu bunga dan bekas tadahan dibuang airnya sekurang-kurangnya seminggu sekali.
+~ Pastikan saliran atap sentiasa mengalir.
+~ Membela ikan di dalam kolam ikan untuk mengurangkan jentik-jentik.
+~ Pastikan tingkap dan pintu sentiasa ditutup.
+~ Sapukan ubat penghalau nyamuk pada anggota terdedah kepada gigitan nyamuk.
+~ Memakai baju berwarna cerah dan berlengan panjang dan seluar panjang sewaktu keluar rumah.
+~ Pasangkan ubat lingkaran nyamuk dan ubat nyamuk elektrik di kawasan tertutup.""" ;
+    ex:category 4 ;
+    ex:question_english "what should i do to prevent dengue fever" ;
+    ex:question_malay "apakah perlu saya lakukan untuk mencegah demam denggi" ;
+    ex:source "https://www.kickstory.net/2017/12/apa-itu-demam-denggi.html#" .
+
+<http://example.org/dengue/qa125> a ex:QA_Pair ;
+    ex:answer_english """~ Remove container that allows stagnant water.
+~ Make sure the water tank and rainforest container are closed closely.
+~ Ensure that flower pots and water catchment containers are removed at least once a week.
+~ Make sure the roof drain is constantly flowing.
+~ Defending fish if there is a fish pond in the home area to reduce the flies.
+~ Use insect spray to kill mosquitoes.
+~ Make sure the windows and doors are always closed.
+~ Sweep mosquito repellent on members at risk for mosquito bites.
+~ Wear bright and long sleeves and long pants when out of the house.
+~ Installing mosquito circles and electric mosquitoes in closed areas.""" ;
+    ex:answer_malay """~ Membuang bekas yang membolehkan air bertakung.
+~ Memastikan tangki air dan bekas tadahan hujan ditutup dengan rapat.
+~ Memastikan pasu-pasu bunga dan bekas tadahan air dibuang sekurang-kurangnya seminggu sekali.
+~ Memastikan saliran atap sentiasa mengalir.
+~ Membela ikan jika terdapat kolam ikan di kawasan rumah untuk mengurangkan jentik-jentik.
+~ Menggunakan semburan serangga untuk membunuh nyamuk.
+~ Memastikan tingkap dan pintu sentiasa ditutup.
+~ Menyapu ubat penghalau nyamuk pada anggota yang berisiko terdedah kepada gigitan nyamuk.
+~ Memakai baju berwarna cerah dan berlengan panjang dan seluar panjang sewaktu keluar dari rumah.
+~ Memasang ubat lingkaran nyamuk dan ubat nyamuk elektrik di kawasan tertutup.""" ;
+    ex:category 4 ;
+    ex:question_english "what are the ways to prevent dengue fever" ;
+    ex:question_malay "apakah caracara mencegah demam denggi" ;
+    ex:source "https://www.sistemguruonline.my/2023/12/10-cara-merawat-demam-denggi.html#google_vignette" .
+
+<http://example.org/dengue/qa126> a ex:QA_Pair ;
+    ex:answer_english """~ Remove all unwanted containers that can collect water because stagnant water is a mosquito breeding habitat.
+~ Check and exchange water in flower pots in your home regularly.
+~ Clean the flower pots in the garden regularly to prevent water accumulation.
+~ Always make sure all the water containers are closed.
+~ If you live in areas exposed to dengue, make sure the doors and windows are closed.
+~ Put the net on the windows and doors to eliminate the possibility of mosquitoes entering the house.
+~ Apply insect or mosquito repellent on your body while traveling or while you are indoors.
+~ Use aerosol insect repellent, mosquito coil and electric vapor to eliminate adult mosquitoes.
+~ Wear long -sleeved clothes and long pants with stockings and closed shoes to cover your body as much as possible.
+~ Time for you to go out according to weather conditions.
+~ Take it with the necessary kits such as mosquito repellent and a net sleeping bag that can help protect you from mosquito bites.""" ;
+    ex:answer_malay """~ Buang semua bekas yang tidak diingini yang boleh mengumpul air kerana air yang bertakung adalah habitat pembiakan nyamuk.
+~ Periksa dan tukar air dalam pasu bunga di rumah anda dengan kerap.
+~ Bersihkan pasu bunga di kebun dengan kerap untuk mengelakkan pengumpulan air.
+~ Sentiasa pastikan semua bekas air ditutup.
+~ Jika anda tinggal di kawasan yang terdedah kepada denggi, pastikan pintu dan tingkap ditutup.
+~ Letakkan jaring pada tingkap dan pintu untuk menghapuskan kemungkinan nyamuk memasuki rumah.
+~ Sapukan penghalau serangga atau nyamuk pada badan anda semasa dalam perjalanan atau semasa anda berada di dalam rumah.
+~ Gunakan penghalau serangga aerosol, gegelung nyamuk dan wap elektrik untuk menghapuskan nyamuk dewasa.
+~ Pakai pakaian berlengan panjang dan seluar panjang dengan stoking dan kasut bertutup untuk menutupi badan anda sebanyak mungkin.
+~ Atur waktu untuk anda keluar mengikut keadaan cuaca.
+~ Bawa bersama kit yang diperlukan seperti ubat nyamuk dan beg tidur berjaring yang boleh membantu melindungi anda daripada gigitan nyamuk.""" ;
+    ex:category 4 ;
+    ex:question_english "how to prevent dengue outbreaks at home" ;
+    ex:question_malay "bagaimanakah untuk mencegah wabak denggi di rumah" ;
+    ex:source "https://gleneagles.com.my/ms/health-digest/dengue-fever-and-symptoms" .
+
+<http://example.org/dengue/qa127> a ex:QA_Pair ;
+    ex:answer_english """~ Use nets on windows and doors and fix broken or damaged windows.
+~ Cover all windows and doors without nets.
+~ When children come out, they should wear long pants, shoes, socks and long sleeves.
+~ Children should reduce time outside during the day, especially in the early morning and dusk, when the mosquito is the most active.
+~ Use mosquito repellent while outdoors can also help.""" ;
+    ex:answer_malay """~ Gunakan jaring pada tingkap dan pintu dan betulkan tingkap yang pecah atau rosak.
+~ Tutup semua tingkap dan pintu tanpa jaring.
+~ Apabila kanak-kanak keluar, mereka harus memakai seluar panjang, kasut, stoking dan baju berlengan panjang.
+~ Kanak-kanak harus mengurangkan masa di luar pada waktu siang, terutamanya pada awal pagi dan senja, apabila nyamuk paling aktif.
+~ Guna penghalau nyamuk semasa berada di luar rumah juga boleh membantu.""" ;
+    ex:category 4 ;
+    ex:question_english "what are the steps to prevent dengue fever" ;
+    ex:question_malay "apakah langkah mencegah demam denggi" ;
+    ex:source "https://gleneagles.com.my/ms/medical-specialties/paediatrics/dengue-fever" .
+
+<http://example.org/dengue/qa128> a ex:QA_Pair ;
+    ex:answer_english """~ Make sure there are no mosquito breeding grounds.
+~ Discard the container that can take water.
+~ Make sure the water tank, the raincoat should be closed.
+~ Make sure the flower pots and catchment containers are thrown away at least once a week.
+~ Make sure the roof drain is always flowing.
+~ Defend fish in a fish pond to reduce flies.
+~ Use insect spray to kill mosquitoes.
+~ Make sure the windows and doors are always closed.
+~ Apply mosquito repellent on members exposed to mosquito bites.
+~ Wear bright and long sleeves and long pants when out of the house.
+~ Pepter mosquito circles and electric mosquitoes in the closed area.""" ;
+    ex:answer_malay """~ Memastikan tiada tempat pembiakan nyamuk.
+~ Membuang bekas yang boleh menakung air.
+~ Pastikan tangki air, bekas tadahan hujan seharusnya ditutup.
+~ Pastikan pasu-pasu bunga dan bekas tadahan dibuang airnya sekurang-kurangnya seminggu sekali.
+~ Pastikan saliran atap sentiasa mengalir.
+~ Membela ikan di dalam kolam ikan untuk mengurangkan jentik-jentik.
+~ Menggunakan semburan serangga untuk membunuh nyamuk.
+~ Pastikan tingkap dan pintu sentiasa ditutup.
+~ Sapukan ubat penghalau nyamuk pada anggota terdedah kepada gigitan nyamuk.
+~ Memakai baju berwarna cerah dan berlengan panjang dan seluar panjang sewaktu keluar rumah.
+~ Pasangkan ubat lingkaran nyamuk dan ubat nyamuk elektrik di kawasan tertutup.""" ;
+    ex:category 4 ;
+    ex:question_english "what should i do to prevent dengue fever" ;
+    ex:question_malay "apakah perlu saya lakukan untuk mencegah demam denggi" ;
+    ex:source "https://www.akmalyaziz.com/tanda-demam-denggi/" .
+
+<http://example.org/dengue/qa129> a ex:QA_Pair ;
+    ex:answer_english """~ The patient will be given intravenous fluid.
+~ An electrolyte replacement is done.
+~ Monitoring of blood pressure.
+~ Blood transfusion to replace lost blood.
+~ Platelet transfusion if the number of platelets decreases.""" ;
+    ex:answer_malay """~ Pesakit akan diberikan cecair intravena.
+~ Penggantian elektrolit dilakukan.
+~ Pemantauan tekanan darah.
+~ Tranfusi darah bagi menggantikan darah yang hilang.
+~ Transfusi platelet sekiranya jumlah platelet menurun.""" ;
+    ex:category 4 ;
+    ex:question_english "what is the treatment for dengue fever" ;
+    ex:question_malay "apakah rawatan untuk demam denggi berdarah" ;
+    ex:source "https://helomedik.com/demam-denggi-berdarah/" .
+
+<http://example.org/dengue/qa13> a ex:QA_Pair ;
+    ex:answer_english """~ Dengue is a viral infection that spreads through infective aedes mosquito bites.
+~ There are four types of dengue viruses: DENV-1, DENV-2, DENV-3, and DENV-4, which can cause disease.""" ;
+    ex:answer_malay """~ Denggi merupakan sejenis penyakit jangkitan virus yang merebak melalui gigitan nyamuk Aedes yang infektif.
+~ Terdapat empat jenis virus denggi iaitu DENV-1, DENV-2, DENV-3, dan DENV-4, yang mana semua boleh menyebabkan penyakit.""" ;
+    ex:category 1 ;
+    ex:question_english "what is dengue" ;
+    ex:question_malay "apa itu denggi" ;
+    ex:source "https://ecentral.my/simptom-denggi/" .
+
+<http://example.org/dengue/qa130> a ex:QA_Pair ;
+    ex:answer_english """~ Adequate rest helps the body fight the virus.
+~ Drinking plenty of water and other fluids helps prevent dehydration.
+~ Paracetamol (acetaminophen) is generally recommended to relieve fever and pain.
+~ Note the symptoms that arise, especially if the fever and fatigue persist.Immediately consult your doctor if there are severe symptoms.""" ;
+    ex:answer_malay """~ Rehat yang mencukupi membantu tubuh melawan virus.
+~ Minum banyak air dan cecair lain membantu mencegah dehidrasi.
+~ Paracetamol (acetaminophen) secara amnya disyorkan untuk melegakan demam dan kesakitan.
+~ Perhatikan simptom yang timbul, terutamanya jika demam dan keletihan berterusan.  Segera dapatkan nasihat doktor jika terdapat gejala yang semakin teruk.""" ;
+    ex:category 4 ;
+    ex:question_english "how do i treat dengue fever" ;
+    ex:question_malay "bagaimana cara merawat demam denggi" ;
+    ex:source "https://www.shidarahmat.com/2023/08/tanda-punca-dan-rawatan-demam-denggi.html" .
+
+<http://example.org/dengue/qa131> a ex:QA_Pair ;
+    ex:answer_english """~ Rest and drink plenty of cooking water.
+~ Take paracetamol medicine to reduce fever and reduce pain.
+~ Avoid painkillers for children.""" ;
+    ex:answer_malay """~ Rehat dan banyak minum air masak.
+~ Ambil ubat paracetamol untuk menurunkan demam dan mengurangkan kesakitan.
+~ Elakkan ubat tahan sakit bagi kanak-kanak.""" ;
+    ex:category 4 ;
+    ex:question_english "what is the treatment step" ;
+    ex:question_malay "apakah langkah perawatan" ;
+    ex:source "https://helomedik.com/demam-denggi/" .
+
+<http://example.org/dengue/qa132> a ex:QA_Pair ;
+    ex:answer_english """~ Mosquito nests.
+~ Use anti -mosquito spray or spray.
+~ Using a mosquito net.
+~ Keeping the environment clean.
+~ Vaccination.
+~ Using a mosquito trap.""" ;
+    ex:answer_malay """~ Pemberantasan Sarang Nyamuk.
+~ Menggunakan  Lotion atau Semprotan (Spray) Anti Nyamuk.
+~ Menggunakan Kelambu.
+~ Menjaga Kebersihan Lingkungan.
+~ Vaksinasi.
+~ Menggunakan Perangkap Nyamuk.""" ;
+    ex:category 4 ;
+    ex:question_english "what is the way to prevent dengue fever" ;
+    ex:question_malay "apakah cara mencegah demam berdarah denggi" ;
+    ex:source "https://www.prudentialsyariah.co.id/id/pulse/article/ciri-ciri-demam-berdarah-dengue/" .
+
+<http://example.org/dengue/qa133> a ex:QA_Pair ;
+    ex:answer_english """~ Find the breeding ground around the house and eliminate it
+~ Ask the patient to rest under the mosquito net to prevent spread to other family members
+~ Report to the authorities for fogging to be done around your residential area""" ;
+    ex:answer_malay """~ Cari tempat pembiakan di sekitar rumah dan menghapuskannya
+~ Minta pesakit berehat di bawah kelambu untuk mencegah penyebaran ke anggota keluarga yang lain
+~ Lapor kepada pihak berwajib agar fogging dapat dilakukan di sekitar kawasan perumahan anda""" ;
+    ex:category 4 ;
+    ex:question_english "what are the prevention of dengue fever" ;
+    ex:question_malay "apakah pencegahan penyakit demam denggi" ;
+    ex:source "https://blog.teleme.co/ms/2020/01/26/apa-itu-demam-denggi/" .
+
+<http://example.org/dengue/qa134> a ex:QA_Pair ;
+    ex:answer_english """~ Prevent aedes mosquito breeding habitat.
+~ Cover the door and window or install the net.
+~ Use a mosquito repellent.
+~ Eliminate adult mosquitoes.
+~ Wear protective clothing.
+~ Time to get out.""" ;
+    ex:answer_malay """~ Cegah habitat pembiakan nyamuk Aedes.
+~ Tutup pintu dan tingkap atau pasang jaring.
+~ Gunakan penghalau nyamuk.
+~ Hapuskan nyamuk dewasa.
+~ Pakai pakaian pelindung.
+~ Atur waktu untuk anda keluar.""" ;
+    ex:category 4 ;
+    ex:question_english "how to prevent dengue outbreaks at home" ;
+    ex:question_malay "bagaimanakah untuk mencegah wabak denggi di rumah" ;
+    ex:source "https://gleneagles.com.my/ms/health-digest/dengue-fever-and-symptoms#:~:text=Simptom%20biasanya%20berlangsung%20selama%202,daripada%20demam%20denggi%20selepas%20seminggu." .
+
+<http://example.org/dengue/qa135> a ex:QA_Pair ;
+    ex:answer_english "Preventing better than cure, and dengue fever is no exception.It is important to ensure that there is no stagnant water around the home to prevent mosquito breeding.Some neighborhoods have regular mosquito repair work.If you walk to the interior, for example, forests, insect repellents are also useful." ;
+    ex:answer_malay "Mencegah lebih baik daripada mengubati, dan demam denggi tidaklah terkecuali. Adalah penting untuk memastikan tiada air bertakung di sekeliling rumah demi mencegah pembiakan nyamuk. Sesetengah kejiranan ada kerja-kerja pengasapan nyamuk secara berkala. Jika anda berjalan ke tempat di pedalaman, contohnya aktiviti meredah hutan, penghalau serangga juga berguna." ;
+    ex:category 4 ;
+    ex:question_english "how to prevent dengue" ;
+    ex:question_malay "bagaimana mencegah denggi" ;
+    ex:source "https://www.mmgazette.com/betapa-bahayanya-denggi-msiaendsdengue-dr-khoo-yoong-khean/" .
+
+<http://example.org/dengue/qa136> a ex:QA_Pair ;
+    ex:answer_english "The best way to get rid of aedes mosquitoes is to regularly clean the home environment so that the aedes mosquitoes do not have time to breed.Make the habit of packing and maintaining cleanliness as a practice of life.Cover the container containing water or add the flies.The mosquito breeding container cannot be disposed of by simply removing the water, but the container wall should be boiled to remove the eggs to completely dispose of the egg.The nature of the incidence of high Aedes mosquitoes makes it easier to reproduce when cleanliness is not properly maintained." ;
+    ex:answer_malay "Cara terbaik untuk menghapuskan nyamuk aedes adalah dengan mengemas persekitaran rumah secara kerap agar nyamuk aedes tidak sempat untuk membiak. Jadikan tabiat mengemas dan menjaga kebersihan sebagai amalan kehidupan. Tutup bekas yang berisi air atau masukkan ubat jentik-jentik. Bekas pembiakan nyamuk tidak boleh dilupuskan dengan hanya membuang airnya sahaja, tetapi dinding bekas perlu diberus untuk membuang telurnya bagi benar-benar melupuskan telur tersebut. Sifat kejadian nyamuk aedes yang berdaya tahan tinggi menyebabkannya mudah saja membiak apabila kebersihan tidak dijaga rapi." ;
+    ex:category 4 ;
+    ex:question_english "how to get rid of aedes mosquitoes" ;
+    ex:question_malay "bagaimanakah menghapuskan nyamuk aedes" ;
+    ex:source "https://ikram.org.my/kes-demam-denggi-meningkat-faktor-cara-mengatasi/" .
+
+<http://example.org/dengue/qa137> a ex:QA_Pair ;
+    ex:answer_english """~ Protection from mosquito bites.
+~ Avoid visiting or visiting high -risk areas during the day.
+~ Destroy the mosquito breeding grounds.
+~ Eliminate adult aedes mosquitoes.""" ;
+    ex:answer_malay """~ Perlindungan dari gigitan nyamuk.
+~ Elak dari melawat atau berkunjung ke kawasan berisiko tinggi pada siang hari.
+~ Musnahkan tempat-tempat pembiakan nyamuk.
+~ Hapuskan nyamuk Aedes dewasa.""" ;
+    ex:category 4 ;
+    ex:question_english "how to prevent dengue" ;
+    ex:question_malay "bagaimana cara untuk mencegah denggi" ;
+    ex:source "https://sitik.wordpress.com/2010/04/03/info-demam-denggi/" .
+
+<http://example.org/dengue/qa138> a ex:QA_Pair ;
+    ex:answer_english """~ Eliminates mosquito breeding grounds.
+~ Close the door and window of the house as often as possible, or attach the insect screen.
+~ Protect your skin from mosquito bites.
+~ Stay away from mosquito breeding areas.
+~ Always be careful.""" ;
+    ex:answer_malay """~ Menghapuskan tempat pembiakan nyamuk.
+~ Tutup pintu dan tingkap rumah sekerap mungkin, atau pasangkan skrin serangga.
+~ Lindungi kulit anda dari gigitan nyamuk.
+~ Jauhilah kawasan pembiakan nyamuk.
+~ Sentiasa berwaspada.""" ;
+    ex:category 4 ;
+    ex:question_english "what is an effective way to protect yourself from dengue infections" ;
+    ex:question_malay "apakah cara berkesan untuk melindungi diri anda daripada jangkitan denggi" ;
+    ex:source "https://www.prubsn.com.my/ms/takaful-articles/five-effective-ways-to-protect-yourself-against-dengue/" .
+
+<http://example.org/dengue/qa139> a ex:QA_Pair ;
+    ex:answer_english """~ Using a mosquito repel.
+~ Use mosquito networks during sleep.
+~ Avoid coming out at dusk.
+~ Put a fine net (Mosquito mesh).
+~ Eliminates aedes mosquito habitat.
+~ Get a dengue vaccine.
+~ Increase public awareness of dengue.
+~ Practice a balanced and nutritious nutrition.
+~ Disables used items correctly.
+~ Always be careful while sleeping.""" ;
+    ex:answer_malay """~ Menggunakan Repelan Nyamuk.
+~ Menggunakan Kelambu Nyamuk Semasa Tidur.
+~ Elak Keluar Pada Waktu Senja.
+~ Pasang Jaring Halus (Mosquito Mesh).
+~ Menghapuskan Habitat Nyamuk Aedes.
+~ Mendapatkan Vaksin Denggi.
+~ Meningkatkan Kesedaran Masyarakat tentang Denggi.
+~ Amalkan Pemakanan yang Seimbang dan Berkhasiat.
+~ Melupuskan Barangan Terpakai dengan Betul.
+~ Sentiasa Berjaga-jaga Ketika Tidur.""" ;
+    ex:category 4 ;
+    ex:question_english "how to overcome dengue fever" ;
+    ex:question_malay "bagaimanakah mengatasi demam denggi" ;
+    ex:source "https://mypati.my/kesihatan/demam-denggi/cara-mengatasi-demam-denggi/" .
+
+<http://example.org/dengue/qa14> a ex:QA_Pair ;
+    ex:answer_english """~ Dengue fever, also known as classical dengue or non -complication dengue, is a lighter form of dengue infection.
+~ Dengue symptoms include sudden high fever, headache, muscle and joint pain, nausea, vomiting, and skin rash.
+~ Most cases of dengue fever will recover with symptomatic and personal care, such as taking a lot of water and enough rest.""" ;
+    ex:answer_malay """~ Demam denggi, juga dikenali sebagai denggi klasik atau denggi tidak komplikasi, adalah bentuk jangkitan denggi yang lebih ringan.
+~ Simptom denggi termasuk demam tinggi yang mendadak, sakit kepala, sakit otot dan sendi, mual, muntah, dan ruam kulit.
+~ Kebanyakan kes demam denggi akan pulih dengan rawatan simptomatik dan penjagaan diri, seperti pengambilan banyak air dan rehat yang cukup.""" ;
+    ex:category 1 ;
+    ex:question_english "how to distinguish dengue symptoms from dengue" ;
+    ex:question_malay "bagaimana membezakan simptom denggi dengan denggi berdarah" ;
+    ex:source "https://ecentral.my/simptom-denggi/#h-beza-demam-denggi-dan-demam-denggi-derdarah" .
+
+<http://example.org/dengue/qa140> a ex:QA_Pair ;
+    ex:answer_english "Eliminates mosquito breeding grounds around the house.Destroy all containers that can hold rainwater or excess water, especially in the basins, old tires, flower containers, plastic containers and barrels.If it cannot be destroyed, place the killer material in the container." ;
+    ex:answer_malay "Menghapuskan tempat pembiakan nyamuk di sekeliling rumah. Musnahkan semua bekas yang boleh menakung air hujan atau lebihan air, terutamanya di besen, tayar lama, bekas bunga, bekas plastik dan tong. Jika tidak boleh dimusnahkan, letakkan bahan pembunuh jentik-jentik di bekas tersebut." ;
+    ex:category 4 ;
+    ex:question_english "how to get rid of mosquito breeding places" ;
+    ex:question_malay "bagaimanakah menghapuskan tempattempat pembiakan nyamuk" ;
+    ex:source "https://idengue.mysa.gov.my/langkah_pencegahan.html" .
+
+<http://example.org/dengue/qa141> a ex:QA_Pair ;
+    ex:answer_english """~ Clean the drain and make sure the water is stagnant.
+~ Changing water in pet food containers and flower pots at least once a week.
+~ Drying or removing cans, buckets, plastic containers, toys, tires or other things that can control water.
+~ Cover or remove containers that cannot be dried or removed.
+~ Close the rainwater with a mosquito net.
+~ Keep the fish in the pool.""" ;
+    ex:answer_malay """~ Membersihkan longkang dan memastikan tiad air bertakung.
+~ Menukar air di bekas makanan haiwan peliharaan dan alas pasu bunga sekurang-kurangnya seminggu sekali.
+~ Mengeringkan atau membuang tin, baldi, bekas plastik, mainan, tayar atau benda lain yang boleh menakung air.
+~ Menutup atau membuang bekas yang tidak boleh dikeringkan atau dibuang.
+~ Menutup tong air hujan dengan jaring nyamuk.
+~ Memelihara ikan di dalam kolam.""" ;
+    ex:category 4 ;
+    ex:question_english "what is the way to prevent mosquitoes from breeding" ;
+    ex:question_malay "apakah cara mencegah nyamuk daripada membiak" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/cara-mencegah-denggi" .
+
+<http://example.org/dengue/qa142> a ex:QA_Pair ;
+    ex:answer_english """~ Make sure there are no mosquito breeding grounds.
+~ Use insect spray to kill mosquitoes.
+~ Protect yourself from mosquito bites.
+~ Close the door and window of the house.
+~ Use the flies.""" ;
+    ex:answer_malay """~ Memastikan tiada tempat pembiakan nyamuk.
+~ Menggunakan semburan serangga untuk membunuh nyamuk.
+~ Lindungi diri daripada gigitan nyamuk.
+~ Tutup pintu dan tingkap rumah.
+~ Gunakan pembasmi jentik-jentik.""" ;
+    ex:category 4 ;
+    ex:question_english "a way to prevent dengue fever" ;
+    ex:question_malay "cara untuk cegah demam denggi" ;
+    ex:source "https://ninasalleh.com/cara-cegah-demam-denggi/#google_vignette" .
+
+<http://example.org/dengue/qa143> a ex:QA_Pair ;
+    ex:answer_english """~ Use Repellen.
+~ Spray aerosol of insecticides.
+~ Put a mosquito repellent.
+~ Wear long pants and long sleeves.
+~ Put a mosquito barrier net.
+~ Sleep in the mosquito net.
+~ Avoid being outside Ruman in the early morning (6-8am) or dusk (6-8 pm).This time is the peak time of the aedes mosquito biting.""" ;
+    ex:answer_malay """~ Gunakan repellen.
+~ Sembur aerosol racun serangga.
+~ Pasang penghalau nyamuk.
+~ Pakai seluar panjang dan baju lengan panjang.
+~ Pasang jaring penghalang nyamuk.
+~ Tidur dalam kelambu.
+~ Elakkan berada di luar ruman pada awal pagi (6-8 pagi) atau senja (6-8 malam). Waktu ini adalah waktu puncak nyamuk Aedes menggigit.""" ;
+    ex:category 4 ;
+    ex:question_english "what are the precautions from aedes mosquito bites" ;
+    ex:question_malay "apakah langkah pencegahan daripada gigitan nyamuk aedes" ;
+    ex:source "https://bidadari.my/langkah-kawalan-denggi-di-malaysia/" .
+
+<http://example.org/dengue/qa144> a ex:QA_Pair ;
+    ex:answer_english """~ Prevents the reproduction of aedes mosquitoes by dumping stagnant water.
+~ Use mosquito repellent products.
+~ Install the mosquito net in the window.
+~ Performs a period of fog spraying on a regular basis.
+~ Consider getting vaccination for you and your loved ones.""" ;
+    ex:answer_malay """~ Mencegah pembiakan nyamuk Aedes dengan membuang air yang bertakung.
+~ Menggunakan produk penghalau nyamuk.
+~ Memasang kelambu di jendela.
+~ Melaksanakan jadual penyemburan kabus secara berkala.
+~ Pertimbangkan untuk mendapatkan vaksinasi bagi anda dan orang yang tersayang.""" ;
+    ex:category 4 ;
+    ex:question_english "a way to protect yourself from dengue" ;
+    ex:question_malay "cara untuk melindungi diri daripada denggi" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/langkah-pencegahan-baru-denggi" .
+
+<http://example.org/dengue/qa145> a ex:QA_Pair ;
+    ex:answer_english """~ Eliminates mosquito breeding grounds.
+~ Use mosquito repellent spray and mosquito repellent.
+~ Install mosquito net at home.
+~ Implementing a mosquito control program in the community.
+~ Monitor symptoms and get early treatment.""" ;
+    ex:answer_malay """~ Menghapuskan Tempat Pembiakan Nyamuk.
+~ Menggunakan Semburan Penghalau Nyamuk dan Kelambu.
+~ Memasang Jaring Nyamuk di Rumah.
+~ Melaksanakan Program Kawalan Nyamuk di Komuniti.
+~ Memantau Gejala dan Mendapatkan Rawatan Awal.""" ;
+    ex:category 4 ;
+    ex:question_english "how to prevent dengue spread" ;
+    ex:question_malay "bagaimana mencegah penyebaran denggi" ;
+    ex:source "https://limausuam.com/adakah-denggi-berjangkit-tentang-penyebaran-dan-pencegahan/" .
+
+<http://example.org/dengue/qa146> a ex:QA_Pair ;
+    ex:answer_english """~ Make sure there are no mosquito breeding grounds.
+~ Discard the container that can take water.
+~ Make sure the water tank, the raincoat should be closed.
+~ Make sure the flower pots and catchment containers are thrown away at least once a week.
+~ Make sure the roof drain is always flowing.
+~ Defend fish in a fish pond to reduce flies.
+~ Use insect spray to kill mosquitoes.
+~ Take steps to protect yourself to prevent mosquito bites.""" ;
+    ex:answer_malay """~ Memastikan tiada tempat pembiakan nyamuk.
+~ Membuang bekas yang boleh menakung air.
+~ Pastikan tangki air, bekas tadahan hujan seharusnya ditutup.
+~ Pastikan pasu-pasu bunga dan bekas tadahan dibuang airnya sekurang-kurangnya seminggu sekali.
+~ Pastikan saliran atap sentiasa mengalir.
+~ Membela ikan di dalam kolam ikan untuk mengurangkan jentik-jentik.
+~ Menggunakan semburan serangga untuk membunuh nyamuk.
+~ Mengambil langkah-langkah melindungi diri untuk mengelakkan gigitan nyamuk.""" ;
+    ex:category 4 ;
+    ex:question_english "what kind of way to prevent dengue fever" ;
+    ex:question_malay "apakah jenis cara untuk mencegah demam denggi" ;
+    ex:source "https://jknperlis.moh.gov.my/v3/index.php/info-kesihatan/329-luangkan-10-minit-cari-dan-musnahkan-tempat-tempat-pembiakan-nyamuk-aedes" .
+
+<http://example.org/dengue/qa147> a ex:QA_Pair ;
+    ex:answer_english """~ Overcoming reproduction.
+~ Protect yourself from mosquito bites.
+~ Take care of yourself before and after traveling.
+~ Become a responsible community member.""" ;
+    ex:answer_malay """~ Mengatasi pembiakan.
+~ Melindungi diri daripada gigitan nyamuk.
+~ Menjaga diri sebelum dan selepas melancong.
+~ Menjadi ahli komuniti yang bertanggungjawab.""" ;
+    ex:category 4 ;
+    ex:question_english "dengue fever prevention measures" ;
+    ex:question_malay "langkah pencegahan demam denggi" ;
+    ex:source "https://www.homage.com.my/health/demam-denggi-bm/" .
+
+<http://example.org/dengue/qa148> a ex:QA_Pair ;
+    ex:answer_english "Use aerosols in the room, use mosquito repellent while performing outdoor activities, and always alert to the outbreak." ;
+    ex:answer_malay "Gunakan aerosol dalam ruangan, gunakan ubat nyamuk semasa menjalankan aktiviti luar, dan sentiasa berjaga-jaga di kawasan wabak." ;
+    ex:category 4 ;
+    ex:question_english "how do i protect yourself from mosquito bites" ;
+    ex:question_malay "bagaimanakah cara melindungi diri daripada gigitan nyamuk" ;
+    ex:source "https://www.mkn.gov.my/web/ms/2022/03/20/denggi-masih-ancaman-kesihatan-di-malaysia/" .
+
+<http://example.org/dengue/qa149> a ex:QA_Pair ;
+    ex:answer_english "Regularly perform cleaning activities and use larvicide in non -closed water containers." ;
+    ex:answer_malay "Kerap melakukan aktiviti pembersihan dan menggunakan larvicide dalam bekas air yang tidak bertutup." ;
+    ex:category 4 ;
+    ex:question_english "what are the steps to eliminate the breeding ground for aedes mosquitoes" ;
+    ex:question_malay "apakah langkah untuk menghapuskan tempat pembiakan nyamuk aedes" ;
+    ex:source "https://www.mkn.gov.my/web/ms/2022/03/20/denggi-masih-ancaman-kesihatan-di-malaysia/" .
+
+<http://example.org/dengue/qa15> a ex:QA_Pair ;
+    ex:answer_english """~ Dengue fever is a more severe form of dengue infection that can be life -threatening if left untreated.
+~ DDB is characterized by common dengue symptoms coupled with signs of bleeding, such as small bleeding on the skin (petechiae), nose, or gums, and bleeding in the body.
+~ DDB requires immediate medical treatment and intensive monitoring to prevent more serious complications, such as organ failure.""" ;
+    ex:answer_malay """~ Demam denggi berdarah adalah bentuk jangkitan denggi yang lebih parah dan boleh menjadi mengancam nyawa jika tidak dirawat dengan segera.
+~ DDB dicirikan oleh simptom denggi biasa ditambah dengan tanda-tanda perdarahan, seperti pendarahan kecil pada kulit (petechiae), hidung, atau gusi, dan perdarahan dalam badan.
+~ DDB memerlukan rawatan perubatan segera dan pemantauan intensif untuk mengelakkan komplikasi yang lebih serius, seperti kegagalan organ.""" ;
+    ex:category 1 ;
+    ex:question_english "how to distinguish dengue symptoms from dengue" ;
+    ex:question_malay "bagaimana membezakan simptom denggi dengan denggi berdarah" ;
+    ex:source "https://ecentral.my/simptom-denggi/#h-beza-demam-denggi-dan-demam-denggi-derdarah" .
+
+<http://example.org/dengue/qa16> a ex:QA_Pair ;
+    ex:answer_english """~ Blood tests: Antibodies (IgM dengue) will be detected in the blood.
+~ PCR test: This is a genetic detection method that can detect dengue viruses in the blood.
+~ NS1 Antigen Test: This method can detect this virus in the early stages/fever.""" ;
+    ex:answer_malay """~ Ujian darah: Antibodi (IgM Denggi) akan dikesan dalam darah.
+~ Ujian PCR: Ini adalah kaedah pengesanan genetik virus yang boleh mengesan virus denggi dalam darah.
+~ Ujian antigen NS1: Kaedah ini boleh mengesan virus ini pada peringkat awal/demam.""" ;
+    ex:category 1 ;
+    ex:question_english "what is the diagnosis for dengue symptoms" ;
+    ex:question_malay "apakah diagnosis untuk simptom denggi" ;
+    ex:source "https://www.pantai.com.my/ms/medical-specialties/paediatrics/dengue-fever" .
+
+<http://example.org/dengue/qa17> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever with or without warning signs and signs of severe dengue fever." ;
+    ex:answer_malay "Demam denggi dengan atau tanpa tanda amaran dan Tanda tanda demam denggi yang teruk." ;
+    ex:category 1 ;
+    ex:question_english "what are two categories of dengue fever" ;
+    ex:question_malay "apakah dua kategori demam denggi" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/tanda-demam-denggi/#google_vignette" .
+
+<http://example.org/dengue/qa18> a ex:QA_Pair ;
+    ex:answer_english "Den 1, den 2, den 3 and den 4." ;
+    ex:answer_malay "DEN 1, DEN 2, DEN 3 dan DEN 4." ;
+    ex:category 1 ;
+    ex:question_english "what kind of dengue" ;
+    ex:question_malay "apakah jenis denggi" ;
+    ex:source "https://genkimomma.my/7-tanda-demam-denggi-anda-perlu-tahu/" .
+
+<http://example.org/dengue/qa19> a ex:QA_Pair ;
+    ex:answer_english """~ The fever phase - as the name implies, this phase is dominated by the symptoms of fever and is accompanied by other symptoms as listed above.This phase can last between 2 and 7 days.
+~ Critical phase-This phase, which usually lasts for 24 to 48 hours and occurs between the 3rd and 7th days of dengue fever, is when signs of severe dengue warning may appear.It is important for patients to obtain careful medical monitoring during this period due to the risk of possible complications.
+~ Recovery phase - At this phase, the patient's condition will recover and stable.But the skin rash will start to peel and itch.""" ;
+    ex:answer_malay """~ Fasa demam - Seperti namanya, fasa ini didominasi oleh gejala demam dan disertai gejala-gejala lain seperti yang di senaraikan di atas. Fasa ini boleh berlarutan antara 2 hingga 7 hari.
+~ Fasa kritikal - Fasa ini, yang biasanya berlangsung selama 24 hingga 48 jam dan berlaku antara hari ke-3 hingga ke-7 demam denggi, adalah ketika tanda-tanda amaran demam denggi yang teruk mungkin muncul. Adalah penting bagi pesakit untuk mendapatkan pemantauan perubatan yang rapi dalam tempoh ini kerana risiko kemungkinan komplikasi.
+~ Fasa pemulihan - Pada fasa ini, keadaan pesakit akan semakin pulih dan stabil. Namun ruam kulit yang dialami akan mula mengelupas dan menjadi gatal.""" ;
+    ex:category 1 ;
+    ex:question_english "how many phases of dengue symptoms will appear" ;
+    ex:question_malay "berapa fasa gejala denggi akan muncul" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/simptom-denggi" .
+
+<http://example.org/dengue/qa2> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever is a disease spread by mosquitoes, and it affects about 400 million people worldwide every year." ;
+    ex:answer_malay "Demam denggi adalah penyakit yang disebarkan oleh nyamuk, dan ia memberi kesan kepada sekitar 400 juta orang di seluruh dunia setiap tahun." ;
+    ex:category 1 ;
+    ex:question_english "what is dengue" ;
+    ex:question_malay "apa itu denggi" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/cara-merawat-denggi" .
+
+<http://example.org/dengue/qa20> a ex:QA_Pair ;
+    ex:answer_english """~ Phase of fever (fever): Day 1-4
+~ Critical (Critical) Phase: Day 4-6
+~ Healing Phase (Recovery): Day 7 -10""" ;
+    ex:answer_malay """~ Fasa demam (Demam): Hari 1-4
+~ Fasa kritikal (Kritikal): Hari 4-6
+~ Fasa kesembuhan (pemulihan): Hari 7 -10""" ;
+    ex:category 1 ;
+    ex:question_english "how many phases of dengue fever" ;
+    ex:question_malay "berapa fasa demam denggi" ;
+    ex:source "https://chestspecialistmalaysia.com/ms/kisah-21-kes-denggi-yang-kritikal-denggi/" .
+
+<http://example.org/dengue/qa21> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever is a viral disease that is spread through infected aedes aegypti mosquito bites.The virus belongs to the flavivirus group and can cause mild symptoms to serious complications such as dengue fever or dengue shock syndrome." ;
+    ex:answer_malay "Demam denggi ialah sejenis penyakit virus yang disebarkan melalui gigitan nyamuk Aedes aegypti yang dijangkiti. Virus ini tergolong dalam kumpulan Flavivirus dan boleh menyebabkan gejala ringan hingga komplikasi yang serius seperti Demam Denggi Berdarah atau Sindrom Renjatan Denggi (Dengue Shock Syndrome)." ;
+    ex:category 1 ;
+    ex:question_english "what does dengue fever mean" ;
+    ex:question_malay "apakah maksud demam denggi" ;
+    ex:source "https://neuroversiti.com/demam-denggi-tanda-dan-cara-mencegahnya/" .
+
+<http://example.org/dengue/qa22> a ex:QA_Pair ;
+    ex:answer_english """~ Dengue with normal fever (undifferentiated fever)
+~ Normal dengue fever (Classical Dengue)
+~ Dengue fever (dengue hemorrhagic fever)
+~ Dengue Shock Syndrome (Dengue Shock Syndrome)""" ;
+    ex:answer_malay """~ Denggi dengan demam biasa (undifferentiated fever)
+~ Demam denggi biasa (classical dengue)
+~ Demam denggi berdarah (dengue hemorrhagic fever)
+~ Sindrom kejutan denggi (dengue shock syndrome)""" ;
+    ex:category 1 ;
+    ex:question_english "what kind of dengue fever exists" ;
+    ex:question_malay "apakah jenis demam denggi yang wujud" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/demam-denggi-berdarah/" .
+
+<http://example.org/dengue/qa23> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever is a disease caused by four dengue virus serotype DENV-1 to DENV-4.The virus is spread by Aedes Aegypt and Aedes Albopictus mosquitoes." ;
+    ex:answer_malay "Demam denggi adalah penyakit yang disebabkan oleh empat serotype virus denggi iaitu DENV-1 hinggai DENV-4. Virus ini disebarkan oleh nyamuk Aedes aegypt dan Aedes albopictus." ;
+    ex:category 1 ;
+    ex:question_english "what kind of dengue virus" ;
+    ex:question_malay "berapa jenis virus denggi" ;
+    ex:source "https://my.theasianparent.com/demam-denggi" .
+
+<http://example.org/dengue/qa24> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever is a viral infection that spreads through mosquito bites There are four (4) types of viruses that can cause dengue fever (den 1, den 2, den 3 and den 4).Infection by one of the viruses will provide immunity to the virus alone, if the individual lives in the dengue infection area, they can be infected more than once in a lifetime.More than 100 countries in South Asia, Southeast Asia, Africa, East America Mediterranean and West Pacific suffer from dengue problems." ;
+    ex:answer_malay "Demam denggi adalah sejenis penyakit jangkitan virus yang merebak melalui gigitan nyamuk Terdapat empat (4) jenis virus yang boleh menyebabkan demam denggi (DEN 1, DEN 2, DEN 3 dan DEN 4). Jangkitan oleh salah satu jenis virus akan memberikan imuniti terhadap virus jenis itu sahaja, jika individu tinggal di kawasan jangkitan denggi, mereka boleh di jangkiti lebih dari sekali seumur hidupnya. Lebih 100 negara di Asia Selatan, Asia Tenggara, Afrika, Amerika Timur Mediterranean dan Pasifik Barat mengalami masalah denggi." ;
+    ex:category 1 ;
+    ex:question_english "what is dengue fever" ;
+    ex:question_malay "apa itu demam denggi" ;
+    ex:source "https://idengue.mysa.gov.my/kenali_denggi.html" .
+
+<http://example.org/dengue/qa25> a ex:QA_Pair ;
+    ex:answer_english """~ Dengue fever is a disease spread by "Aedes Aegypti" mosquitoes and is due to one of the four dengue viruses.Once you are infected with one of the dengue viruses, your body will produce immunity to the virus for the rest of your life.However, you can still be infected with three other viruses.
+~ It is not possible for someone to get all four dengue viruses in your life.Viruses that cause dengue fever are associated with viruses that cause yellow fever and "West Nile" virus infection.Often, the tropical area is very affected by the virus.Dengue fever is spread through mosquito bites containing dengue virus.The mosquitoes are infected when they bite people with the dengue virus in their blood.It cannot be distributed directly from humans to humans.""" ;
+    ex:answer_malay """~ Demam denggi (dengue fever) adalah penyakit yang disebarkan oleh nyamuk “Aedes aegypti” dan disebabkan oleh satu daripada empat virus denggi. Sebaik sahaja anda dijangkiti dengan salah satu daripada virus denggi, badan anda akan menghasilkan imuniti terhadap virus tersebut sepanjang hayat anda. Walau bagaimanapun, anda masih boleh dijangkiti dengan tiga virus yang lain.
+~ Adalah tidak mustahil untuk seseorang mendapat kesemua empat virus denggi dalam hidup anda. Virus yang menyebabkan demam denggi berkaitan dengan virus yang menyebabkan demam kuning dan jangkitan virus “West Nile”. Selalunya, kawasan tropika amat terjejas dengan virus ini. Demam denggi disebarkan melalui gigitan nyamuk yang mengandungi virus denggi. Nyamuk itu dijangkiti apabila ia menggigit orang dengan virus denggi dalam darah mereka. Ia tidak boleh disebarkan secara terus dari manusia ke manusia.""" ;
+    ex:category 1 ;
+    ex:question_english "is that dengue" ;
+    ex:question_malay "apakah itu denggi" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/penyakit-bawaan-nyamuk/demam-denggi/cara-mencegah-demam-denggi" .
+
+<http://example.org/dengue/qa26> a ex:QA_Pair ;
+    ex:answer_english """~ Dengue virus infection.
+~ Urbanization.
+~ A weak health system.
+~ Increased rainfall.
+~ Travel and global mobility.
+~ High temperature.
+~ The immune system is weak.
+~ Infected with recurrent dengue fever.
+~ Weaknesses of enforcement.
+~ Lack of awareness of dengue.""" ;
+    ex:answer_malay """~ Jangkitan Virus Denggi.
+~ Urbanisasi.
+~ Sistem Kesihatan yang Lemah.
+~ Peningkatan Hujan.
+~ Perjalanan dan Mobiliti Global.
+~ Suhu yang Tinggi.
+~ Sistem Imun Lemah.
+~ Dijangkiti Demam Denggi Berulang.
+~ Kelemahan Penguatkuasaan.
+~ Kurang Kesedaran Tentang Denggi.""" ;
+    ex:category 1 ;
+    ex:question_english "what is the cause of dengue fever" ;
+    ex:question_malay "apakah punca demam denggi" ;
+    ex:source "https://mypati.my/kesihatan/demam-denggi/punca-demam-denggi/" .
+
+<http://example.org/dengue/qa27> a ex:QA_Pair ;
+    ex:answer_english """~ About 1 out of 4 people with dengue will fall ill with symptoms that may be mild or severe.
+~ About 1 out of 20 people with dengue will have severe dengue.Individuals who have had dengue in the past are more likely to have severe dengue.
+~ Babies and pregnant women are also at high risk of severe dengue.
+~ Shock and bleeding (internal bleeding) may occur in some patients with severe dengue;Getting immediate medical attention is important.""" ;
+    ex:answer_malay """~ Kira-kira 1 daripada 4 orang yang dijangkiti denggi akan jatuh sakit dengan simptom yang mungkin ringan atau teruk.
+~ Kira-kira 1 daripada 20 orang yang dijangkiti denggi akan mengalami denggi yang teruk. Individu yang pernah menghidap denggi pada masa lalu lebih berkemungkinan menghidap denggi yang teruk.
+~ Bayi dan wanita hamil juga berisiko tinggi dijangkiti denggi yang teruk.
+~ Kejutan dan pendarahan (pendarahan dalaman) mungkin berlaku pada sesetengah pesakit dengan denggi yang teruk; mendapatkan rawatan perubatan segera adalah penting.""" ;
+    ex:category 1 ;
+    ex:question_english "what is the fact of dengue fever" ;
+    ex:question_malay "apakah fakta demam denggi" ;
+    ex:source "https://gleneagles.com.my/ms/health-digest/dengue-fever-and-symptoms#:~:text=Simptom%20biasanya%20berlangsung%20selama%202,daripada%20demam%20denggi%20selepas%20seminggu." .
+
+<http://example.org/dengue/qa28> a ex:QA_Pair ;
+    ex:answer_english """~ The dengue virus is transferred to humans through aedes mosquito bites that carry the dengue virus.
+~ Mosquitoes are able to spread the disease within 8 - 12 days after sucking human blood (housing).
+~ Female mosquitoes infected with the dengue virus can move the virus to the next generation through transvarial transfer (through ovaries).
+~ Humans are still a major multiplication for the dengue virus although there are studies showing in certain parts of the world, monkeys can be infected and become a source of virus for unpredictable mosquitoes.
+~ The dengue virus from the first (first victim) can only infect/be transferred to the second home 18 hours before the body temperature increases and at least 3 days after the symptoms of the disease.""" ;
+    ex:answer_malay """~ Virus denggi dipindahkan kepada manusia melalui gigitan nyamuk Aedes yang membawa virus denggi.
+~ Nyamuk berupaya menyebarkan penyakit berkenaan dalam jangka masa 8 - 12 hari selepas menghisap darah manusia (perumah).
+~ Nyamuk betina yang dijangkiti virus denggi boleh memindahkan virus tersebut ke generasi seterusnya melalui pemindahan transovarial (melalui ovari).
+~ Manusia masih merupakan perumah gandaan utama bagi virus denggi walaupun terdapat kajian menunjukkan di beberapa bahagian tertentu di dunia, monyet boleh dijangkiti dan menjadi sumber virus bagi nyamuk yang belum dijangkiti.
+~ Virus denggi dari perumah pertama (mangsa pertama) hanya dapat menjangkiti/dipindahkan ke perumah kedua 18 jam sebelum suhu badan meningkat dan sekurang-kurangnya 3 hari selepas timbulnya gejala penyakit.""" ;
+    ex:category 1 ;
+    ex:question_english "how is the dengue fever transfer" ;
+    ex:question_malay "bagaimanakah pemindahan demam denggi" ;
+    ex:source "https://www.konsumerkini.net.my/v2/index.php/berita-terkini/kesihatan/618-apa-itu-demam-denggi" .
+
+<http://example.org/dengue/qa29> a ex:QA_Pair ;
+    ex:answer_english "The way it spreads is through the aedes mosquito bites.There are two of the heaviest types of dengue namely dengue fever (DHF) and dengue shock syndrome (DSS)." ;
+    ex:answer_malay "Cara penyebarannya ialah melalui gigitan nyamuk aedes.Orang yang berpenyakit virus denggi kepada orang yang sihat. Terdapat dua jenis denggi yang paling berat iaitu Demam Hemoragik Denggi (DHF) dan Sindrom Kejutan Denggi (DSS)." ;
+    ex:category 1 ;
+    ex:question_english "what is the way of spreading dengue fever" ;
+    ex:question_malay "apakah cara penyebaran demam denggi" ;
+    ex:source "https://dmanje-spa.blogspot.com/2016/05/kenali-penyakit-demam-denggi.html" .
+
+<http://example.org/dengue/qa3> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever is a viral infection that spreads through mosquito bites." ;
+    ex:answer_malay "Demam denggi adalah sejenis penyakit jangkitan virus yang merebak melalui gigitan nyamuk." ;
+    ex:category 1 ;
+    ex:question_english "what is dengue fever" ;
+    ex:question_malay "apakah demam denggi" ;
+    ex:source "https://idengue.mysa.gov.my/tanda_denggi.html" .
+
+<http://example.org/dengue/qa30> a ex:QA_Pair ;
+    ex:answer_english """~ Dengue is the name of the virus.
+~ Only female mosquitoes suck human blood.
+~ Dengue fever can be fatal.
+~ There is no specific remedy for dengue fever.
+~ A fine of between RM250 to RM500 can be charged if there is a mosquito breeding in your home.""" ;
+    ex:answer_malay """~ Denggi adalah nama virus.
+~ Hanya nyamuk betina yang menghisap darah manusia.
+~ Demam denggi boleh membawa maut.
+~ Tiada ubat khusus untuk demam denggi.
+~ Denda antara RM250 hingga RM500 boleh dikenakan sekiranya terdapat pembiakan nyamuk di rumah anda.""" ;
+    ex:category 1 ;
+    ex:question_english "what is the fact of dengue fever in malaysia" ;
+    ex:question_malay "apakah fakta tentang demam denggi di malaysia" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/5-fakta-tentang-demam-denggi-di-malaysia/" .
+
+<http://example.org/dengue/qa31> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever vectors are female aedes mosquitoes.The infected mosquito carries a dengue virus in its body.The virus was then transferred to humans during the blood -sucking process.As soon as a person is bitten, the dengue virus will enter and circulate in his bloodstream, then the disease begins." ;
+    ex:answer_malay "Vektor demam denggi adalah nyamuk Aedes betina. Nyamuk yang telah dijangkiti membawa virus denggi di dalam badannya. Virus ini kemudiannya dipindahkan kepada manusia semasa proses menghisap darah. Sebaiksahaja seseorang itu digigit, virus denggi akan memasuki dan beredar di dalam aliran darahnya, maka bermulalah penyakit ini." ;
+    ex:category 1 ;
+    ex:question_english "how does dengue fever occur" ;
+    ex:question_malay "bagaimanakah terjadinya demam denggi" ;
+    ex:source "https://www.selangor.gov.my/index.php/pages/view/134" .
+
+<http://example.org/dengue/qa32> a ex:QA_Pair ;
+    ex:answer_english """~ Dengue fever is a vector -borne disease, carried by two types of mosquitoes, Aedes Aegypti and Aedes Albopictus.It is caused by a virus with 4 unique serotypes, the 4th DENV-1. Each serotype gives it a lifetime after its infection but sequential infections with other serotypes may lead to more dangerous dengue complexity.
+~ It has a period of incubation (period between exposure to disease and symptoms) 4 to 7 days after being bitten by mosquitoes and usually lasts 3 to 10 days without any complications.The duration of the disease is usually divided into three phases;fever phase, critical phase and recovery phase.""" ;
+    ex:answer_malay """~ Demam denggi ialah penyakit bawaan vektor, dibawa oleh dua jenis nyamuk, Aedes aegypti dan Aedes albopictus. Ia disebabkan oleh virus dengan 4 serotaip tersendiri, DENV-1 ke 4. Setiap serotaip memberikan kelalian sepanjang hayat selepas jangkitannya tetapi jangkitan berturutan dengan serotaip lain mungkin menyebabkan kerumitan denggi yang lebih berbahaya.
+~ Ia mempunyai tempoh pengeraman (tempoh antara pendedahan kepada penyakit dan terbit gejala) 4 ke 7 hari selepas digigit nyamuk dan biasanya bertahan 3 ke 10 hari tanpa apa-apa komplikasi. Jangka waktu penyakit ini biasanya terbahagi kepada tiga fasa; fasa demam, fasa kritikal dan fasa pulih.""" ;
+    ex:category 1 ;
+    ex:question_english "what is dengue fever" ;
+    ex:question_malay "apakah demam denggi" ;
+    ex:source "https://www.mmgazette.com/betapa-bahayanya-denggi-msiaendsdengue-dr-khoo-yoong-khean/" .
+
+<http://example.org/dengue/qa33> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever is caused by 4 types of dengue virus transferred to humans through infected aedes mosquitoes.There are basically 4 types of dengue virus namely flavivirus den-1, den-2, den-3 and den-4.All Aedes mosquitoes are able to act as dengue virus vectors before transferring them to humans.However, the main vector of this virus is Aedes Aegypti mosquito.Other vectors are like Aedes Albopictus mosquitoes which are dengue virus vectors in urban areas." ;
+    ex:answer_malay "Penyakit demam denggi berpunca dari 4 jenis virus denggi yang dipindahkan kepada manusia melalui nyamuk Aedes yang telah dijangkiti. Pada asasnya terdapat 4 jenis virus denggi iaitu flavivirus DEN-1, DEN-2, DEN-3 dan DEN-4. Semua nyamuk Aedes berupaya bertindak sebagai vektor virus denggi sebelum memindahkannya kepada manusia. Walau bagaimanapun, vektor utama virus ini ialah nyamuk Aedes aegypti. Vektor lain adalah seperti nyamuk Aedes albopictus yang merupakan vektor virus denggi di kawasan bandar." ;
+    ex:category 1 ;
+    ex:question_english "what is the cause of dengue fever" ;
+    ex:question_malay "apakah penyebab demam denggi" ;
+    ex:source "https://skpadenguepatrol.blogspot.com/2014/05/apa-itu-denggi.html" .
+
+<http://example.org/dengue/qa34> a ex:QA_Pair ;
+    ex:answer_english """~ Classical dengue fever - patients show symptoms of fever, rash, body aches, joint pain and muscle aches.Symptoms of the disease are usually not severe and rarely cause death.This type of fever has also been called 'breakbone fever' or 'breakbone fever'.
+~ Dengue fever-usually occurs in children, especially in the age of 2-13 years.In the early stages (for 2-4 days) the symptoms encountered were the same as the classical dengue fever and followed by worse levels with symptoms such as low blood pressure, rash and red spots on the body, gum bleeding, bleeding (black stools) were accompanied by seizures and unconscious.It often causes death if treatment is not given immediately.It is also called 'Philippine bloody fever'.""" ;
+    ex:answer_malay """~ Demam denggi klasikal - Pesakit menunjukkan gejala demam, ruam, sakit badan, sakit sendi dan sakit otot. Gejala penyakit ini biasanya tidak teruk dan jarang menyebabkan kematian. Demam jenis ini juga pernah dinamakan 'demam patah tulang' atau 'breakbone fever'.
+~ Demam denggi berdarah - Biasanya terjadi di kalangan kanak-kanak terutama dalam lingkungan umur 2-13 tahun. Pada tahap awal (selama 2-4 hari) gejala yang dihidapi adalah sama seperti demam denggi klasikal dan diikuti oleh tahap yang lebih teruk dengan gejala seperti tekanan darah rendah, ruam dan bintik-bintik merah di badan, perdarahan gusi, berak berdarah (najis berwarna hitam) disertai dengan sawan dan tidak sedar diri. Ia sering menyebabkan kematian jika rawatan tidak diberikan dengan segera. Ia juga dipanggil sebagai 'demam berdarah Filipina'.""" ;
+    ex:category 1 ;
+    ex:question_english "what are the types of dengue diseases" ;
+    ex:question_malay "apakah jenisjenis penyakit denggi" ;
+    ex:source "https://sallyramly.blogspot.com/2014/12/jom-kenali-2-jenis-demam-denggi.html" .
+
+<http://example.org/dengue/qa35> a ex:QA_Pair ;
+    ex:answer_english """~ Fever phase: The most common symptom when exposed to dengue fever is high fever.That is why the early phase of dengue fever is called the fever phase.In this phase, the patient will have a sudden fever up to 40 degrees Celsius for 2 to 7 days.
+~ Critical phase: After the fever phase, patients with dengue fever will experience critical phases.Well, this phase is usually 'complicated' because the patient is cured and can do more activities.Because the critical phase is characterized by a decrease in body temperature to 37 degrees Celsius to normal temperature.
+~ Recovery phase: When dengue patients go through critical stages, people with dengue fever will once again feel fever.However, this does not need to be alarmed.Because, this condition is a healing phase where platelets will slowly rise and return to normal.""" ;
+    ex:answer_malay """~ Fasa demam: Simptom yang paling biasa apabila terdedah kepada demam denggi adalah demam tinggi. Itulah sebabnya fasa awal demam denggi dipanggil fasa demam. Dalam fasa ini, pesakit akan mengalami demam tiba-tiba sehingga mencapai 40 darjah Celsius selama 2 hingga 7 hari.
+~ Fasa kritis: Selepas melalui fasa demam, pesakit yang demam denggi akan mengalami fasa kritis. Nah, fasa ini biasanya menjadi 'rumit' kerana pesakit merasa sembuh dan boleh melakukan aktiviti lagi. Kerana fasa kritis dicirikan oleh penurunan suhu badan hingga 37 derajat Celsius hingga suhu normal.
+~ Fasa pemulihan: Apabila pesakit denggi melepasi tahap kritikal, orang yang demam denggi sekali lagi akan merasakan demam. Walau bagaimanapun, ini tidak perlu dibimbangkan. Kerana, keadaan ini adalah fase penyembuhan dimana platelet perlahan-lahan akan naik dan kembali normal.""" ;
+    ex:category 1 ;
+    ex:question_english "what is the level of dengue" ;
+    ex:question_malay "apakah tahap denggi" ;
+    ex:source "https://www.shinkotoni-central-blog.com/articles/demam-berdarah-dengue-(dbd)/3-fase-demam-berdarah-yang-wajib-anda-ketahui.html" .
+
+<http://example.org/dengue/qa36> a ex:QA_Pair ;
+    ex:answer_english """~ Dengue with normal fever: This type of dengue fever is the most common with the symptoms of a cold and lasts for only one to two days.Patients also do not experience other signs of classical dengue fever and usually the patient himself does not know he or she is infected with the dengue virus.
+~ Classical dengue fever: Patients with dengue fever will have a sudden high fever, with a body temperature of 40 ° C.The patient will also feel pain and pain in the joints throughout the body in addition to headaches and pain in the eyeballs.Nausea, vomiting, heartburn and stomach aches, loss of appetite and diarrhea are among the symptoms of dengue that patients often neglected and considered a normal health problem.Patients will also have reddish rash and itching that begins on the third or fourth day after the fever begins.
+~ Dengue fever (DDB): This type of dengue fever is one of the most feared diseases but it is actually rare and only five percent of DDB patients have passed away.Unfortunately, it is also more common in children and young people due to recurrent infections of the dengue virus of different types.The common patients get DDB between the third and seventh days of fever, starting with signs of bleeding on the gums, nose, eyes, bleeding, bleeding stools (black like road tar), vomiting or bleeding cough and bleeding on the skin (black spots or bruises).""" ;
+    ex:answer_malay """~ Denggi Dengan Demam Biasa: Demam denggi jenis ini merupakan yang paling kerap berlaku dengan simptom demam seakan-akan selesema dan bertahan selama satu hingga dua hari sahaja. Pesakit juga tidak mengalami tanda-tanda lain demam denggi klasik dan kebiasaannya pesakit sendiri tidak mengetahui dirinya dijangkiti virus denggi.
+~ Demam Denggi Klasik: Pesakit yang menghidap bentuk demam denggi ini akan mengalami demam yang tinggi secara tiba-tiba, dengan suhu badan boleh mencecah 40°C. Pesakit juga akan berasa sakit serta sengal pada sendi di seluruh badan di samping sakit kepala dan sakit di dalam bebola mata. Rasa mual, muntah- muntah, pedih ulu hati dan senak perut, hilang selera makan dan cirit birit pula adalah antara simptom denggi yang sering diabaikan pesakit dan dianggap sebagai masalah kesihatan biasa. Pesakit juga akan mengalami ruam kemerahan dan gatal-gatal yang mula timbul pada hari ketiga atau keempat selepas mula demam.
+~ Demam Denggi Berdarah (DDB): Demam denggi jenis ini menjadi antara penyakit paling digeruni tetapi ia sebenarnya jarang berlaku dan hanya lima peratus daripada pesakit DDB yang meninggal dunia. Malangnya, ia juga lebih kerap berlaku di kalangan kanak-kanak dan golongan muda akibat jangkitan berulang virus denggi dari jenis yang berbeza. Pesakit biasa mendapat DDB antara hari ketiga hingga ketujuh demam, bermula dengan tanda pendarahan pada gusi, hidung, mata, kencing berdarah, najis berdarah (hitam seperti tar jalan), muntah atau batuk berdarah dan pendarahan pada kulit (bintik hitam atau lebam).""" ;
+    ex:category 1 ;
+    ex:question_english "what kind of dengue fever" ;
+    ex:question_malay "apakah jenis demam denggi" ;
+    ex:source "https://kumpulanperubatanelektronikterengganu.blogspot.com/2010/04/demam-denggi.html" .
+
+<http://example.org/dengue/qa37> a ex:QA_Pair ;
+    ex:answer_english "Basically, those living in the dengue endemic area and exposed to Aedes mosquitoes are at risk of infection." ;
+    ex:answer_malay "Pada asasnya, mereka yang tinggal di kawasan endemik denggi dan terdedah kepada nyamuk Aedes menghadapi risiko dijangkiti demam ini." ;
+    ex:category 1 ;
+    ex:question_english "what are the factors that increase the risk of dengue" ;
+    ex:question_malay "apakah faktor yang meningkatkan risiko denggi" ;
+    ex:source "https://sitik.wordpress.com/2010/04/03/info-demam-denggi/" .
+
+<http://example.org/dengue/qa38> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever is found to occur in urban areas and its surroundings in the tropical region.Anyone bitten by a mosquito who carries dengue virus germs at higher risk of dengue.Dengue fever resembles cold fever and its clinical features vary according to the age of the patient." ;
+    ex:answer_malay "Demam denggi didapati berlaku di kawasan bandar dan sekitarnya di negara-negara rantau tropika. Sesiapa sahaja yang digigit nyamuk yang membawa kuman virus denggi menghadapi risiko yang lebih tinggi mendapat denggi. Demam denggi menyerupai demam selsema dan ciri klinikalnya berbeza-beza mengikut umur pesakit." ;
+    ex:category 1 ;
+    ex:question_english "how does dengue fever spread" ;
+    ex:question_malay "bagaimanakah penyakit demam denggi merebak" ;
+    ex:source "https://sitik.wordpress.com/2010/04/03/info-demam-denggi/" .
+
+<http://example.org/dengue/qa39> a ex:QA_Pair ;
+    ex:answer_english "Dengue is spread by aedes mosquitoes, especially the aedes Aegypti and Aedes Albopictus species.This mosquito is easily known for its clear black and white stripes on the body and feet.Only female mosquitoes bite and suck human blood, and they usually do it early in the morning (dawn) and late afternoon (dusk).Understanding this behavior is important to prevent mosquito bites." ;
+    ex:answer_malay "Denggi disebarkan oleh nyamuk Aedes, terutamanya spesies Aedes aegypti dan Aedes albopictus. Nyamuk ini mudah dikenali dengan jalur hitam dan putih yang jelas pada badan dan kaki. Hanya nyamuk betina yang menggigit dan menghisap darah manusia, dan mereka biasanya melakukannya pada waktu awal pagi (subuh) dan lewat petang (senja). Memahami tingkah laku ini penting untuk mencegah gigitan nyamuk." ;
+    ex:category 1 ;
+    ex:question_english "when is the most active aedes mosquito biting of humans" ;
+    ex:question_malay "bilakah waktu nyamuk aedes paling aktif menggigit manusia" ;
+    ex:source "https://www.majalahsains.com/bersama-melawan-denggi-meningkatkan-kesedaran-komuniti-tentang-denggi-dan-pencegahannya/" .
+
+<http://example.org/dengue/qa4> a ex:QA_Pair ;
+    ex:answer_english "There are four types of viruses that can cause dengue fever: den 1, den 2, den 3 and den 4." ;
+    ex:answer_malay "Terdapat empat jenis virus yang boleh menyebabkan demam denggi iaitu DEN 1, DEN 2, DEN 3 dan DEN 4." ;
+    ex:category 1 ;
+    ex:question_english "what kind of dengue" ;
+    ex:question_malay "berapa jenis denggi" ;
+    ex:source "https://idengue.mysa.gov.my/tanda_denggi.html" .
+
+<http://example.org/dengue/qa40> a ex:QA_Pair ;
+    ex:answer_english "Dengue is a viral disease that can cause high fever, joint pain, and skin rash.The virus has four different serotypes, and infections with one serotype do not provide immunity to the other serotype.This means that one can be infected with dengue more than once in their life." ;
+    ex:answer_malay "Denggi adalah penyakit viral yang boleh menyebabkan demam tinggi, sakit sendi, dan ruam kulit. Virus ini mempunyai empat serotip yang berbeza, dan jangkitan dengan satu serotip tidak memberikan imuniti terhadap serotip yang lain. Ini bermakna seseorang boleh dijangkiti denggi lebih dari sekali dalam hidup mereka." ;
+    ex:category 1 ;
+    ex:question_english "what does dengue mean" ;
+    ex:question_malay "apakah maksud denggi" ;
+    ex:source "https://klinikbandaran.com/memahami-denggi-penyakit-berbahaya/" .
+
+<http://example.org/dengue/qa41> a ex:QA_Pair ;
+    ex:answer_english "Several factors such as population growth, urbanization, global warming and globalization have affected the epidemiological conditions that influence the spread of viruses by both aedes mosquito vectors." ;
+    ex:answer_malay "Beberapa faktor seperti pertumbuhan penduduk, urbanisasi, pemanasan global dan globalisasi telah memberi kesan ke atas keadaan epidemiologi yang mempengaruhi penyebaran virus oleh kedua-dua vektor nyamuk Aedes." ;
+    ex:category 1 ;
+    ex:question_english "what are the factors related to the distribution of dengue outbreaks" ;
+    ex:question_malay "apakah faktor berkaitan sebaran wabak denggi" ;
+    ex:source "https://bidadari.my/langkah-kawalan-denggi-di-malaysia/" .
+
+<http://example.org/dengue/qa42> a ex:QA_Pair ;
+    ex:answer_english "Dengue is a disease caused by the dengue virus, which belongs to the flaviviridae family.The virus is spread through infected aedes mosquito bites, especially in tropical and subtropical areas such as Malaysia.The dengue virus has four different serotypes namely DENV-1, DENV-2, DENV-3, and DENV-4.A person who has been infected with one of the serotypes can still be infected with another serotype, and the second infection is often worse." ;
+    ex:answer_malay "Denggi adalah penyakit yang disebabkan oleh virus denggi, yang tergolong dalam keluarga Flaviviridae. Virus ini disebarkan melalui gigitan nyamuk Aedes yang terjangkit, terutamanya di kawasan tropika dan subtropika seperti Malaysia. Virus denggi mempunyai empat serotip yang berbeza iaitu DENV-1, DENV-2, DENV-3, dan DENV-4. Seseorang yang telah dijangkiti dengan salah satu serotip masih boleh dijangkiti dengan serotip lain, dan jangkitan kedua sering kali lebih teruk." ;
+    ex:category 1 ;
+    ex:question_english "what is dengue" ;
+    ex:question_malay "apa itu denggi" ;
+    ex:source "https://limausuam.com/adakah-denggi-berjangkit-tentang-penyebaran-dan-pencegahan/" .
+
+<http://example.org/dengue/qa43> a ex:QA_Pair ;
+    ex:answer_english """~ Abandonment of personal hygiene.
+~ Abandonment of the surrounding area.""" ;
+    ex:answer_malay """~ Pengabaian terhadap kebersihan diri.
+~ Pengabaian terhadap kawasan persekitaran.""" ;
+    ex:category 1 ;
+    ex:question_english "what is the cause of dengue fever" ;
+    ex:question_malay "apakah punca penyakit demam denggi" ;
+    ex:source "https://karangan.net/faktor-langkah-penyakit-demam-denggi/" .
+
+<http://example.org/dengue/qa44> a ex:QA_Pair ;
+    ex:answer_english """~ Fever phase (Febrle Phase): Third to Seventh Day.
+~ Critical phase: one or two days after body temperature decreases.
+~ Recovery phase: Seventh and above.""" ;
+    ex:answer_malay """~ Fasa demam (Febrile phase) : Hari ketiga hingga ketujuh.
+~ Fasa kritikal (Critical phase) : Satu atau dua hari selepas suhu badan menurun.
+~ Fasa kesembuhan (Recovery phase): Hari ketujuh dan ke atas.""" ;
+    ex:category 1 ;
+    ex:question_english "what is the phase of dengue fever" ;
+    ex:question_malay "apakah fasa demam denggi" ;
+    ex:source "https://www.homage.com.my/health/demam-denggi-bm/" .
+
+<http://example.org/dengue/qa45> a ex:QA_Pair ;
+    ex:answer_english "Dengue diseases are spread by a group of female aedes that have been infected with the dengue virus.Dengue infections can only spread through blood flow.Physical or sexual touch, saliva, and nasal or mouth drops should not cause dengue." ;
+    ex:answer_malay "Penyakit denggi disebarkan oleh kumpulan nyamuk Aedes betina yang telah dijangkiti dengan virus denggi. Jangkitan denggi hanya boleh merebak melalui penularan darah. Sentuhan secara fizikal atau seksual, air liur, dan titisan hidung atau mulut tidak boleh menyebabkan denggi." ;
+    ex:category 1 ;
+    ex:question_english "how does dengue spread" ;
+    ex:question_malay "bagaimanakah denggi merebak" ;
+    ex:source "https://www.homage.com.my/health/demam-denggi-bm/" .
+
+<http://example.org/dengue/qa46> a ex:QA_Pair ;
+    ex:answer_english "Within 8 to 12 days." ;
+    ex:answer_malay "Dalam jangka masa 8 hingga 12 hari." ;
+    ex:category 1 ;
+    ex:question_english "how long does aedes mosquito can spread the virus after sucking blood" ;
+    ex:question_malay "berapa lama nyamuk aedes boleh menyebarkan virus selepas menghisap darah" ;
+    ex:source "https://www.mkn.gov.my/web/ms/2022/03/20/denggi-masih-ancaman-kesihatan-di-malaysia/" .
+
+<http://example.org/dengue/qa47> a ex:QA_Pair ;
+    ex:answer_english "Severe dengue fever, known as dengue fever, can cause bleeding from internal, low blood pressure and even death." ;
+    ex:answer_malay "Demam denggi yang teruk atau dikenali sebagai demam denggi berdarah boleh menyebabkan pendarahan dari dalaman, tekanan darah rendah dan juga kematian." ;
+    ex:category 1 ;
+    ex:question_english "what does dengue fever mean" ;
+    ex:question_malay "apakah maksud demam denggi berdarah" ;
+    ex:source "https://tips-kesihatan.com/demam-denggi-tanda-punca-dan-komplikasi/#google_vignette" .
+
+<http://example.org/dengue/qa48> a ex:QA_Pair ;
+    ex:answer_english """~ Severe headache.
+~ Pain in the back of the eye.
+~ Muscle aches and joints.
+~ Nausea.
+~ Vomit.
+~ Swelling of the gland.
+~ Rash.""" ;
+    ex:answer_malay """~ Sakit kepala yang teruk.
+~ Sakit di belakang mata.
+~ Sakit otot dan sendi.
+~ Mual.
+~ Muntah.
+~ Bengkak kelenjar.
+~ Ruam.""" ;
+    ex:category 2 ;
+    ex:question_english "how to know the symptoms of dengue" ;
+    ex:question_malay "bagaimana tahu simptom denggi" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/cara-merawat-denggi" .
+
+<http://example.org/dengue/qa49> a ex:QA_Pair ;
+    ex:answer_english """~ Surprise fever.
+~ Severe or severe headache.
+~ Pain in the back of the eyes as well as the muscles and joints.
+~ Red rash on the skin can also occur.""" ;
+    ex:answer_malay """~ Demam kuat yang mengejut.
+~ Sakit kepala yang teruk atau kuat.
+~ Sakit pada bahagian belakang mata serta otot-otot dan sendi-sendi.
+~ Ruam merah di kulit juga boleh terjadi.""" ;
+    ex:category 2 ;
+    ex:question_english "what is a dengue sign" ;
+    ex:question_malay "apakah tanda denggi" ;
+    ex:source "https://idengue.mysa.gov.my/tanda_denggi.html" .
+
+<http://example.org/dengue/qa5> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever is a viral infection caused by ribonucleic acid (RNA) virus from the flaviviridae family.The disease is a viral infection that spreads through the previously infected Aedes Aedes mosquito bites." ;
+    ex:answer_malay "Demam denggi adalah jangkitan virus yang disebabkan oleh virus asid ribonukleik (RNA) daripada keluarga flaviviridae. Penyakit ini adalah sejenis penyakit jangkitan virus yang merebak melalui gigitan nyamuk Aedes aegypti yang telah dijangkiti sebelum ini." ;
+    ex:category 1 ;
+    ex:question_english "what is the cause of dengue fever" ;
+    ex:question_malay "apakah punca demam denggi" ;
+    ex:source "https://www.pantai.com.my/ms/health-pulse/dengue-fever#:~:text=Denggi%20tidak%20berjangkit%20daripada%20manusia,rawatan%20perubatan%20segera%20adalah%20penting." .
+
+<http://example.org/dengue/qa50> a ex:QA_Pair ;
+    ex:answer_english "Sudden high fever is 40 degrees Celsius.A very severe headache.Back pain.Muscle aches and joints.Nausea and vomiting.The gland is swollen.Rash" ;
+    ex:answer_malay "Demam tinggi tiba-tiba iaitu 40 darjah Celcius. Sakit kepala yang sangat teruk. Sakit belakang mata. Sakit otot dan sendi. Rasa mual dan muntah. Kelenjar bengkak. Ruam badan" ;
+    ex:category 2 ;
+    ex:question_english "what are the signs or symptoms of dengue fever" ;
+    ex:question_malay "apakah tanda atau simptom demam denggi" ;
+    ex:source "https://www.pantai.com.my/ms/health-pulse/dengue-fever#:~:text=Denggi%20tidak%20berjangkit%20daripada%20manusia,rawatan%20perubatan%20segera%20adalah%20penting." .
+
+<http://example.org/dengue/qa51> a ex:QA_Pair ;
+    ex:answer_english """~ High fever is up to 40 degrees Celsius.
+~ Severe headache or pain in the back of the eyes.
+~ Joint pain, muscle or bone.
+~ Gums and bleeding nose.
+~ Easily bruised.
+~ Low white blood cells.""" ;
+    ex:answer_malay """~ Demam tinggi mendadak hingga 40 darjah Celcius.
+~ Sakit kepala yang teruk atau kesakitan di belakang mata.
+~ Sakit sendi, otot atau tulang.
+~ Gusi dan hidung berdarah.
+~ Mudah lebam.
+~ Jumlah sel darah putih rendah.""" ;
+    ex:category 2 ;
+    ex:question_english "what are the early signs of dengue infection" ;
+    ex:question_malay "apakah tandatanda awal jangkitan denggi" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/bagaimana-demam-denggi-merebak-dan-didiagnosis/" .
+
+<http://example.org/dengue/qa52> a ex:QA_Pair ;
+    ex:answer_english """~ Sudden high fever is 40 degrees Celsius.
+~ Severe headache.
+~ Pain in the back of the eye.
+~ Muscle aches and joints.
+~ Skin rash.
+~ Nausea and vomiting.""" ;
+    ex:answer_malay """~ Demam tinggi secara tiba-tiba iaitu 40 darjah Celcius.
+~ Sakit kepala yang teruk.
+~ Sakit di belakang mata.
+~ Sakit otot dan sendi.
+~ Ruam kulit.
+~ Mual dan muntah.""" ;
+    ex:category 2 ;
+    ex:question_english "what is the main symptom of dengue disease" ;
+    ex:question_malay "apakah simptom utama penyakit denggi" ;
+    ex:source "https://rootofscience.com/demam-denggi/" .
+
+<http://example.org/dengue/qa53> a ex:QA_Pair ;
+    ex:answer_english """~ Tend to have hot fever.
+~ Light bleeding out of the nose or gums.
+~ Experience severe headaches.
+~ Back pain and between joints, muscles, or bones.
+~ Rash.""" ;
+    ex:answer_malay """~ Cenderung mengalami demam panas.
+~ Pendarahan ringan keluar pada hidung atau gusi.
+~ Alami sakit kepala teruk.
+~ Sakit pada belakang mata dan antara sendi, otot, atau tulang.
+~ Ruam.""" ;
+    ex:category 2 ;
+    ex:question_english "what are the signs and symptoms of dengue" ;
+    ex:question_malay "apakah petanda dan simptom denggi" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/apa-ibu-bapa-perlu-tahu-jika-anak-demam-denggi/" .
+
+<http://example.org/dengue/qa54> a ex:QA_Pair ;
+    ex:answer_english """~ Severe abdominal pain and stress in the abdomen.
+~ Continuous vomiting that is difficult to stop.
+~ Blood vomiting.
+~ Bleeding from nose or bleeding gums.
+~ Black stools like tar.
+~ Swelling on the body.
+~ Extreme fatigue, confusion, or unusual anxiety.
+~ Signs of fluid accumulation such as liver enlargement, fluid in the lungs or fluids in the abdomen.
+~ Sudden change of temperature.""" ;
+    ex:answer_malay """~ Sakit perut yang teruk dan tekanan di bahagian abdomen.
+~ Muntah berterusan yang sukar dihentikan.
+~ Muntah darah.
+~ Pendarahan dari hidung atau gusi berdarah.
+~ Najis berwarna hitam seperti tar.
+~ Bengkak pada bahagian badan.
+~ Kelesuan melampau, kebingungan, atau kegelisahan luar biasa.
+~ Tanda pengumpulan cecair seperti pembesaran hati, cecair di paru-paru atau  cecair dalam abdomen.
+~ Perubahan suhu secara mendadak.""" ;
+    ex:category 2 ;
+    ex:question_english "what is the main sign of dengue" ;
+    ex:question_malay "apakah tanda utama denggi berdarah" ;
+    ex:source "https://mypati.my/kesihatan/demam-denggi/denggi-berdarah/" .
+
+<http://example.org/dengue/qa55> a ex:QA_Pair ;
+    ex:answer_english """~ Normal fever or hot fever.
+~ Headache.
+~ Pain in the back of the eye.
+~ Muscle and joint pain.
+~ Feeling too tired.
+~ Has a rash on the body.
+~ Bloody stools.
+~ Feeling nausea and vomiting.""" ;
+    ex:answer_malay """~ Demam biasa atau demam panas.
+~ Sakit kepala.
+~ Sakit pada bahagian belakang mata.
+~ Sakit-sakit otot dan sendi.
+~ Berasa terlalu letih.
+~ Mempunyai ruam pada tubuh badan.
+~ Najis berdarah.
+~ Berasa loya dan muntah-muntah.""" ;
+    ex:category 2 ;
+    ex:question_english "what is the symptoms of dengue fever" ;
+    ex:question_malay "apakah simptom penyakit demam denggi" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/denggi-malaysia/" .
+
+<http://example.org/dengue/qa56> a ex:QA_Pair ;
+    ex:answer_english """~ High fever suddenly.
+~ Spots - red spots.
+~ Joint pain, muscle and back.
+~ Headache.
+~ Bleeding under the skin, nose and gums.""" ;
+    ex:answer_malay """~ Demam Yang Tinggi Secara Tiba – tiba.
+~ Bintik - Bintik Merah.
+~ Sakit Sendi, Otot dan Belakang Badan.
+~ Sakit Kepala.
+~ Pendarahan Di Bawah Lapisan Kulit, Hidung dan Gusi.""" ;
+    ex:category 2 ;
+    ex:question_english "what is the most alarming symptom of dengue" ;
+    ex:question_malay "apakah simptom denggi yang paling membimbangkan" ;
+    ex:source "https://mamaqaireen.com/8-cara-mudah-merawat-demam-denggi/" .
+
+<http://example.org/dengue/qa57> a ex:QA_Pair ;
+    ex:answer_english """~ Hot fever.
+~ Headache.
+~ Spinal pain.
+~ Joint pain.
+~ Nausea and vomiting.
+~ Eye pain.
+~ Rash.""" ;
+    ex:answer_malay """~ Demam panas.
+~ Sakit kepala.
+~ Sakit tulang belakang.
+~ Sakit sendi-sendi.
+~ Loya dan muntah-muntah.
+~ Sakit biji mata.
+~ Ruam.""" ;
+    ex:category 2 ;
+    ex:question_english "what are the main symptoms of dengue disease" ;
+    ex:question_malay "apakah gejala utama penyakit denggi" ;
+    ex:source "https://www.kickstory.net/2017/12/apa-itu-demam-denggi.html#" .
+
+<http://example.org/dengue/qa58> a ex:QA_Pair ;
+    ex:answer_english """~ Sudden high fever is 40 degrees Celsius.
+~ A very severe headache.
+~ Pain in the back of the eye.
+~ Muscle aches and joints.
+~ Nausea and vomiting.
+~ There is a swelling in the gland.
+~ There are rash on the body.""" ;
+    ex:answer_malay """~ Demam tinggi secara tiba-tiba iaitu 40 darjah celcius.
+~ Sakit kepala yang sangat teruk.
+~ Sakit di belakang mata.
+~ Sakit otot dan sendi-sendi.
+~ Rasa mual dan muntah.
+~ Berlaku kebengkakan di bahagian kelenjar.
+~ Berlaku ruam-ruam pada badan.""" ;
+    ex:category 2 ;
+    ex:question_english "how do we know if we are infected with dengue fever" ;
+    ex:question_malay "bagaimana kita hendak tahu sekiranya kita dijangkiti demam denggi" ;
+    ex:source "https://www.sistemguruonline.my/2023/12/10-cara-merawat-demam-denggi.html#google_vignette" .
+
+<http://example.org/dengue/qa59> a ex:QA_Pair ;
+    ex:answer_english """~ Severe abdominal pain.
+~ Vomit.
+~ Bleeding from gums or nose.
+~ Blood in urine or feces.
+~ Blood under the skin looks like bruises.
+~ Difficult to breathe.
+~ Fatigue.
+~ Tired and uncomfortable.""" ;
+    ex:answer_malay """~ Sakit perut yang teruk.
+~ Muntah-muntah.
+~ Pendarahan daripada gusi atau hidung.
+~ Darah dalam air kencing atau tinja.
+~ Darah di bawah kulit yang nampak seperti lebam.
+~ Sukar bernafas.
+~ Keletihan.
+~ Rasa penat dan tidak selesa.""" ;
+    ex:category 2 ;
+    ex:question_english "what is the symptoms of dengue" ;
+    ex:question_malay "apakah simptom denggi berdarah" ;
+    ex:source "https://ecentral.my/simptom-denggi/#h-beza-demam-denggi-dan-demam-denggi-derdarah" .
+
+<http://example.org/dengue/qa6> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever caused by dengue virus." ;
+    ex:answer_malay "Demam denggi yang terjadi disebabkan oleh virus denggi." ;
+    ex:category 1 ;
+    ex:question_english "what is dengue" ;
+    ex:question_malay "apakah denggi" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/makanan-untuk-demam-denggi" .
+
+<http://example.org/dengue/qa60> a ex:QA_Pair ;
+    ex:answer_english "The most noticeable sign of dengue fever is the rash that often arises and covers most of the body." ;
+    ex:answer_malay "Tanda yang paling ketara bagi demam denggi ialah ruam yang sering timbul dan meliputi sebahagian besar badan." ;
+    ex:category 2 ;
+    ex:question_english "is it a skin rash to sign dengue" ;
+    ex:question_malay "adakah ruam kulit tanda penyakit denggi" ;
+    ex:source "https://gleneagles.com.my/ms/medical-specialties/paediatrics/dengue-fever" .
+
+<http://example.org/dengue/qa61> a ex:QA_Pair ;
+    ex:answer_english """~ High fever, up to 40 degrees celsius.
+~ Severe muscle aches and joints.
+~ Severe headache.
+~ The red rash that begins on the chest, back or stomach and spreads to the limbs and face.
+~ Pain in the back of the eye.
+~ Nausea and vomiting.
+~ Diarrhea.""" ;
+    ex:answer_malay """~ Demam tinggi, sehingga 40 darjah celcius.
+~ Sakit otot dan sendi yang teruk.
+~ Teruk sakit kepala.
+~ Ruam merah yang bermula pada dada, belakang atau perut dan merebak ke anggota badan dan muka.
+~ Sakit di belakang mata.
+~ Loya and muntah-muntah.
+~ Cirit-birit.""" ;
+    ex:category 2 ;
+    ex:question_english "what is the common symptom of dengue" ;
+    ex:question_malay "apakah simptom denggi biasa" ;
+    ex:source "https://www.apollohospitals.com/ms/diseases-and-conditions/dengue-fever-symptoms-causes-treatment" .
+
+<http://example.org/dengue/qa62> a ex:QA_Pair ;
+    ex:answer_english """~ Easily bruised.
+~ Bleeding under the skin, on the nose and gums.
+~ It can be followed by bleeding throughout the body.""" ;
+    ex:answer_malay """~ Mudah lebam.
+~ Pendarahan di bawah kulit, pada hidung serta gusi.
+~ Ia boleh diikuti dengan pendarahan seluruh badan yang juga membawa maut.""" ;
+    ex:category 2 ;
+    ex:question_english "what is the sign of dengue fever" ;
+    ex:question_malay "apakah tanda demam denggi berdarah" ;
+    ex:source "https://ecentral.my/tanda-demam-denggi/" .
+
+<http://example.org/dengue/qa63> a ex:QA_Pair ;
+    ex:answer_english """~ Bleeding.
+~ Difficulty in breathing (pleural effusion).
+~ Restless.
+~ Vomit.
+~ Abdominal pain.
+~ Sudden decrease in body temperature.""" ;
+    ex:answer_malay """~ Pendarahan.
+~ Kesukaran bernafas (efusi pleura).
+~ Gelisah.
+~ Muntah.
+~ Sakit perut.
+~ Penurunan suhu badan secara mendadak.""" ;
+    ex:category 2 ;
+    ex:question_english "what are the early symptoms of dengue fever dhf" ;
+    ex:question_malay "apakah gejalagejala awal demam denggi berdarah dhf" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/jenis-jenis-demam-denggi" .
+
+<http://example.org/dengue/qa64> a ex:QA_Pair ;
+    ex:answer_english """~ The pulse is fast but weak.
+~ Low blood pressure (hypotension).
+~ Poor blood circulation (delayed capillary filling).
+~ Skin is cold and sweaty.
+~ Anxiety or anxiety.""" ;
+    ex:answer_malay """~ Denyutan nadi yang pantas tetapi lemah.
+~ Tekanan darah rendah (hipotensi).
+~ Peredaran darah yang lemah (masa pengisian kapilari yang tertangguh).
+~ Kulit yang sejuk dan berpeluh.
+~ Kegelisahan atau kebimbangan.""" ;
+    ex:category 2 ;
+    ex:question_english "what is the symptoms of dengue shock" ;
+    ex:question_malay "apakah simptom kejutan denggi" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/jenis-jenis-demam-denggi" .
+
+<http://example.org/dengue/qa65> a ex:QA_Pair ;
+    ex:answer_english """~ Easily bruised.
+~ Bleeding under the skin, on the nose or gums.
+~ Most concerned is bleeding throughout the body that can be fatal.""" ;
+    ex:answer_malay """~ Mudah lebam.
+~ Pendarahan di bawah kulit, pada hidung atau gusi.
+~ Paling dikhuatiri ialah pendarahan di seluruh badan yang boleh membawa maut.""" ;
+    ex:category 2 ;
+    ex:question_english "what are the symptoms of dengue fever" ;
+    ex:question_malay "apakah gejala demam denggi berdarah" ;
+    ex:source "https://genkimomma.my/7-tanda-demam-denggi-anda-perlu-tahu/" .
+
+<http://example.org/dengue/qa66> a ex:QA_Pair ;
+    ex:answer_english "Early symptoms of dengue include high fever, headache, vomiting, muscle aches and joints, and rash on the skin." ;
+    ex:answer_malay "Gejala-gejala awal denggi termasuk demam tinggi, sakit kepala, muntah, sakit otot dan sendi, serta ruam pada kulit." ;
+    ex:category 2 ;
+    ex:question_english "what are the symptoms of dengue fever" ;
+    ex:question_malay "apakah simptomsimptom demam denggi" ;
+    ex:source "https://mysihat.com/tanda-demam-denggi/" .
+
+<http://example.org/dengue/qa67> a ex:QA_Pair ;
+    ex:answer_english "Warning signs include severe abdominal pain, vomiting, shortness of breath, or blood in the nose, gums, vomiting or stools." ;
+    ex:answer_malay "Tanda amaran termasuk sakit perut yang teruk, muntah, sesak nafas, atau darah dalam hidung, gusi, muntah atau najis." ;
+    ex:category 2 ;
+    ex:question_english "what is a sign of a dengue fever" ;
+    ex:question_malay "apakah tanda amaran demam denggi" ;
+    ex:source "https://www.meetaugust.ai/ms/library/diseases-conditions/view/dengue-fever" .
+
+<http://example.org/dengue/qa68> a ex:QA_Pair ;
+    ex:answer_english """~ Surprise and persistent fever (2-5 days).
+~ Spots or red spots on the skin.
+~ Severe pain in the bones, muscles, joints, eyes and head.
+~ - bleeding on the body, nose, gums and mouth.
+~ - Blood vomiting.
+~ - Black stools.
+~ - Many menstruation or vaginal bleeding.
+~ - Vomit.
+~ - Abdominal pain.
+~ -      Breathing difficulties.
+~ - Pale or cool taste when the skin is touched.""" ;
+    ex:answer_malay """~ Demam kuat yang mengejut dan berterusan (2-5 hari).
+~ Bintik-bintik atau tompok merah pada kulit.
+~ Sakit teruk pada tulang-tulang, otot-otot, sendi-sendi, biji mata dan kepala.
+~ -      Berdarah pada badan, hidung, gusi dan mulut.
+~ -      Muntah darah.
+~ -      Najis berwarna hitam.
+~ -      Haid yang banyak atau pendarahan dari faraj.
+~ -      Muntah-muntah.
+~ -      Sakit perut.
+~ -      Sesak nafas.
+~ -      Pucat atau rasa yang sejuk bila kulit disentuh.""" ;
+    ex:category 2 ;
+    ex:question_english "what are the signs of dengue fever" ;
+    ex:question_malay "apakah tandatanda menghidap demam denggi" ;
+    ex:source "https://mutiara-online13.blogspot.com/2012/11/fakta-aedes-atau-denggi.html" .
+
+<http://example.org/dengue/qa69> a ex:QA_Pair ;
+    ex:answer_english """~ Sudden fever.
+~ Severe headache.
+~ Pain in the back of the eye.
+~ Muscle aches and joints.
+~ Nausea and vomiting.
+~ The gland is swollen.
+~ Skin rash.
+~ Severe and persistent abdominal pain.
+~ Fast or short breathing.
+~ Abnormal bleeding.
+~ Extreme fatigue and anxiety.""" ;
+    ex:answer_malay """~ Demam Tinggi Secara Tiba-tiba.
+~ Sakit Kepala yang Teruk.
+~ Sakit di Belakang Mata.
+~ Sakit Otot dan Sendi.
+~ Loya dan Muntah.
+~ Kelenjar Bengkak.
+~ Ruam Kulit.
+~ Sakit Perut yang Teruk dan Berterusan.
+~ Pernafasan Cepat atau Pendek Nafas.
+~ Pendarahan Abnormal.
+~ Keletihan Melampau dan Gelisah.""" ;
+    ex:category 2 ;
+    ex:question_english "what are the initial signs and the bad signs" ;
+    ex:question_malay "apakah tanda awal dan tanda teruk" ;
+    ex:source "https://mypati.my/kesihatan/demam-denggi/tanda-demam-denggi/" .
+
+<http://example.org/dengue/qa7> a ex:QA_Pair ;
+    ex:answer_english "Dengue fever is a disease caused by the dengue virus, which is transmitted through the aedes aegypti mosquito bites and Aedes Albopictus and often occurs in the tropical and subtropical areas, including Malaysia." ;
+    ex:answer_malay "Demam denggi ialah penyakit yang disebabkan oleh virus denggi, yang disebarkan melalui gigitan nyamuk Aedes aegypti dan Aedes albopictus dan sering berlaku di kawasan tropika dan subtropika, termasuk Malaysia." ;
+    ex:category 1 ;
+    ex:question_english "what is dengue fever" ;
+    ex:question_malay "apakah demam denggi" ;
+    ex:source "https://rootofscience.com/demam-denggi/" .
+
+<http://example.org/dengue/qa70> a ex:QA_Pair ;
+    ex:answer_english """~ High fever.
+~ Headache.
+~ Muscle pain and joints.
+~ Skin rash.
+~ Nausea and vomiting.
+~ Bleeding.
+~ Stomach ache.""" ;
+    ex:answer_malay """~ Demam Tinggi.
+~ Nyeri Kepala.
+~ Nyeri Otot dan Sendi.
+~ Ruam Kulit.
+~ Mual dan Muntah.
+~ Pendarahan.
+~ Nyeri Perut.""" ;
+    ex:category 2 ;
+    ex:question_english "what are the characteristics of dengue bleeding fever" ;
+    ex:question_malay "apakah ciriciri demam berdarah denggi" ;
+    ex:source "https://www.prudentialsyariah.co.id/id/pulse/article/ciri-ciri-demam-berdarah-dengue/" .
+
+<http://example.org/dengue/qa71> a ex:QA_Pair ;
+    ex:answer_english """~ Diarrhea or vomiting (more than 3 times a day).
+~ Abdominal pain.
+~ Fluid accumulation and difficulty breathing.
+~ Nose or gum bleeding.
+~ Intestinal bleeding.
+~ Sleepy (due to brain swelling).
+~ Tired and tired (due to bleeding or low blood pressure).
+~ Abnormal liver function causes the liver to be weak.
+~ Reduces urine production.
+~ Petechiae (small dot bleeding on the skin).""" ;
+    ex:answer_malay """~ Cirit-birit atau muntah (lebih daripada 3 kali sehari).
+~ Sakit perut.
+~ Pengumpulan cecair dan kesukaran bernafas.
+~ Pendarahan hidung atau gusi.
+~ Pendarahan usus.
+~ Mengantuk (kerana pembengkakan otak).
+~ Lesu dan berasa letih (kerana pendarahan atau tekanan darah rendah).
+~ Fungsi hati yang tidak normal menyebabkan hati lemah.
+~ Mengurangkan pengeluaran air kencing.
+~ Petechiae (pendarahan titik kecil pada kulit).""" ;
+    ex:category 2 ;
+    ex:question_english "what are the symptoms of dengue fever warning" ;
+    ex:question_malay "apakah simptom amaran demam denggi" ;
+    ex:source "https://blog.teleme.co/ms/2020/01/26/apa-itu-demam-denggi/" .
+
+<http://example.org/dengue/qa72> a ex:QA_Pair ;
+    ex:answer_english "During the fever phase, the patient will have high fever for up to 2 to 7 days with red rash on the face and body, joint pain, muscle aches, headaches, pain behind the eye and sometimes other symptoms such as sore throat, red eyes, lack of appetite, nausea, vomiting and various sizes of skin (petechiae/ecchymosis," ;
+    ex:answer_malay "Semasa fasa demam, pesakit akan mengalami demam tinggi secara berlanjutan sehingga 2 hingga 7 hari disertai dengan ruam merah pada muka dan badan, sakit sendi, sakit otot, sakit kepala, sakit dibelakang bebola mata dan kadangkala gejala lain seperti sakit tekak, mata merah, kurang selera makan, loya, muntah dan pelbagai saiz lebam pada kulit (petechiae/ecchymosis/purpura), hidung berdarah, gusi berdarah, darah dalam air kencing dan pendarahan dari vagina." ;
+    ex:category 2 ;
+    ex:question_english "what are the signs during the fever phase" ;
+    ex:question_malay "apakah tandatanda semasa fasa demam" ;
+    ex:source "https://kliniktemasya.com/demam-denggi/" .
+
+<http://example.org/dengue/qa73> a ex:QA_Pair ;
+    ex:answer_english """~ Abdominal pain and diarrhea.
+~ Vomit.
+~ Fever and headache.
+~ Muscle aches and joints.
+~ Red house on the skin.""" ;
+    ex:answer_malay """~ Sakit perut dan cirit birit.
+~ Muntah-muntah.
+~ Demam and sakit kepala.
+~ Sakit otot dan sendi.
+~ Rumah merah di kulit.""" ;
+    ex:category 2 ;
+    ex:question_english "what is the symptoms of dengue fever" ;
+    ex:question_malay "apakah simpton penyakit demam denggi" ;
+    ex:source "https://jknns.moh.gov.my/hrembau/index.php/component/content/article/artikal-info-terkini-2?catid=15&Itemid=101" .
+
+<http://example.org/dengue/qa74> a ex:QA_Pair ;
+    ex:answer_english """~ Fever.
+~ Joint and muscle pain.
+~ Pain in the back of the eye.
+~ Headache.
+~ Nausea and vomiting.
+~ Rash.
+~ Bleeding gums (as a result of decreased blood freezing cells).""" ;
+    ex:answer_malay """~ Demam.
+~ Sakit sendi dan otot.
+~ Sakit dibelakang mata.
+~ Pening kepala.
+~ Rasa loya dan muntah.
+~ Ruam.
+~ Gusi berdarah (akibat daripada penurunan sel pembeku darah).""" ;
+    ex:category 2 ;
+    ex:question_english "what are the signs of dengue fever" ;
+    ex:question_malay "apakah tandatanda demam denggi" ;
+    ex:source "https://www.mmgazette.com/demam-denggi-jangan-benarkan-ia-meragut-nyawa-kita-msiaendsdengue-dr-alya-hamzah/" .
+
+<http://example.org/dengue/qa75> a ex:QA_Pair ;
+    ex:answer_english """~ High fever (> 40 ° C) that occurs suddenly.
+~ Headache.
+~ Red rash, which arises between the 2nd or 5 days after the fever.
+~ Pain in the back of the eye.
+~ Nausea or vomiting.
+~ Pain in the muscles, joints, or bones.""" ;
+    ex:answer_malay """~ Demam tinggi (>40°C) yang terjadi mendadak.
+~ Sakit kepala.
+~ Ruam kemerahan, yang timbul antara hari ke 2 atau 5 setelah demam.
+~ Sakit di belakang mata.
+~ Mual atau muntah.
+~ Nyeri pada otot, sendi, atau tulang.""" ;
+    ex:category 2 ;
+    ex:question_english "what are the symptoms of dengue fever" ;
+    ex:question_malay "apakah gejala demam denggi" ;
+    ex:source "https://www.alodokter.com/demam-dengue" .
+
+<http://example.org/dengue/qa76> a ex:QA_Pair ;
+    ex:answer_english "The patient will experience symptoms and symptoms after 5-6 days of mosquito bites such as hot fever, headache, spinal pain, joint pain, nausea and vomiting, eye pain, and rash." ;
+    ex:answer_malay "Pesakit akan mengalami tanda-tanda dan gejala selepas 5-6 hari gigitan nyamuk seperti demam panas, sakit kepala, sakit tulang belakang, sakit sendi-sendi, loya dan muntah-muntah, sakit biji mata, dan ruam." ;
+    ex:category 2 ;
+    ex:question_english "how to find out that it is possible to have dengue fever" ;
+    ex:question_malay "bagaimanakah untuk mengetahui berkemungkinan menghidap demam denggi" ;
+    ex:source "https://pusatkesihatan.upsi.edu.my/demam-denggi/?lang=ms" .
+
+<http://example.org/dengue/qa77> a ex:QA_Pair ;
+    ex:answer_english """~ A strong fever is sudden and persistent.Your body temperature will be very high.
+~ Red rash on the skin.If you get bleeding, there will be blood out of your skin.
+~ Severe pain in the bones, muscles, and joints.You will feel very nervous and severe body aches.
+~ It hurts the eyeballs.
+~ Headache.
+~ Lose appetite.
+~ Vomit.
+~ Abdominal pain.
+~ Diarrhea.
+~ Bleeding on the body, nose and mouth.""" ;
+    ex:answer_malay """~ Demam kuat secara mengejut dan berterusan. Suhu badan anda akan menjadi sangat tinggi.
+~ Ruam merah pada kulit. Sekiranya anda mendapat denggi berdarah, akan ada darah yang keluar dari liang kulit anda.
+~ Sakit teruk pada tulang, otot, dan sendi. Anda akan rasa lenguh dan sakit badan yang teramat sangat.
+~ Sakit pada bebola mata.
+~ Sakit kepala.
+~ Hilang selera makan.
+~ Muntah-muntah.
+~ Sakit perut.
+~ Cirit-birit.
+~ Pendarahan pada badan, hidung dan mulut.""" ;
+    ex:category 2 ;
+    ex:question_english "what are the signs of dengue fever" ;
+    ex:question_malay "apakah tandatanda demam denggi" ;
+    ex:source "https://bidadari.my/punca-demam-denggi/" .
+
+<http://example.org/dengue/qa78> a ex:QA_Pair ;
+    ex:answer_english """~ Pain in the abdomen.
+~ Frequently vomit.
+~ It's hard to breathe.
+~ Pale and cool skin.
+~ Tired and weak.
+~ Nose or bleeding gums.
+~ Blood in vomiting and impurities.""" ;
+    ex:answer_malay """~ Sakit di bahagian abdomen.
+~ Kerap muntah-muntah.
+~ Sukar untuk bernafas.
+~ Kulit pucat dan sejuk.
+~ Lesu dan lemah.
+~ Hidung atau gusi berdarah.
+~ Darah dalam muntah dan najis.""" ;
+    ex:category 2 ;
+    ex:question_english "what are the symptoms of dengue fever" ;
+    ex:question_malay "apakah gejalagejala demam denggi berdarah" ;
+    ex:source "https://www.homage.com.my/health/demam-denggi-bm/" .
+
+<http://example.org/dengue/qa79> a ex:QA_Pair ;
+    ex:answer_english """~ Sudden and persistent fever for a few days.
+~ The headache is a bit severe.
+~ Joint pain, muscles, and bones.
+~ Pain in the back of the eye.
+~ Nausea.
+~ Vomit.
+~ Lose appetite.
+~ Fatigue.
+~ Rash.""" ;
+    ex:answer_malay """~ Demam panas secara tiba-tiba dan berterusan selama beberapa hari.
+~ Sakit kepala yang agak teruk.
+~ Sakit sendi, otot, dan tulang.
+~ Sakit di bahagian belakang mata.
+~ Rasa loya.
+~ Muntah-muntah.
+~ Hilang selera makan.
+~ Keletihan.
+~ Ruam.""" ;
+    ex:category 2 ;
+    ex:question_english "what are the common symptoms of dengue fever" ;
+    ex:question_malay "apakah gejalagejala biasa demam denggi" ;
+    ex:source "https://www.homage.com.my/health/demam-denggi-bm/" .
+
+<http://example.org/dengue/qa8> a ex:QA_Pair ;
+    ex:answer_english "Bleeding dengue is a worse form of dengue virus infection, compared to normal dengue fever." ;
+    ex:answer_malay "Denggi berdarah ialah satu bentuk jangkitan virus denggi yang lebih teruk dan berbahaya, berbanding demam denggi biasa." ;
+    ex:category 1 ;
+    ex:question_english "what is dengue" ;
+    ex:question_malay "apakah denggi berdarah" ;
+    ex:source "https://mypati.my/kesihatan/demam-denggi/denggi-berdarah/" .
+
+<http://example.org/dengue/qa80> a ex:QA_Pair ;
+    ex:answer_english """~ Pain in the abdomen.
+~ Vomiting continues.
+~ Bleeding from gums and nose.
+~ Blood in the urine, stools, or vomiting.
+~ Bleed under the skin (looks like bruises).
+~ It's hard to breathe.
+~ Cold skin.
+~ Extreme fatigue.
+~ Restless and uncomfortable sitting.""" ;
+    ex:answer_malay """~ Sakit di bahagian perut.
+~ Muntah berterusan.
+~ Pendarahan dari gusi dan hidung.
+~ Darah di dalam air kencing, najis, atau muntah.
+~ Berdarah di bawah kulit (kelihatan seperti lebam).
+~ Susah bernafas.
+~ Kulit yang sejuk.
+~ Kepenatan melampau.
+~ Resah dan tidak senang duduk.""" ;
+    ex:category 2 ;
+    ex:question_english "what are the signs of dengue fever or severe dengue fever" ;
+    ex:question_malay "apakah tandatanda demam denggi berdarah atau demam denggi teruk" ;
+    ex:source "https://tips-kesihatan.com/demam-denggi-tanda-punca-dan-komplikasi/#google_vignette" .
+
+<http://example.org/dengue/qa81> a ex:QA_Pair ;
+    ex:answer_english "Hot fever exceeds 40 degrees Celsius." ;
+    ex:answer_malay "Demam panas melebihi 40 darjah Celsius." ;
+    ex:category 2 ;
+    ex:question_english "what is the body temperature of dengue fever" ;
+    ex:question_malay "berapakah suhu badan pesakit demam denggi" ;
+    ex:source "https://tips-kesihatan.com/demam-denggi-tanda-punca-dan-komplikasi/#google_vignette" .
+
+<http://example.org/dengue/qa82> a ex:QA_Pair ;
+    ex:answer_english "Hot fever, rash, muscle aches and even joints." ;
+    ex:answer_malay "Demam panas, ruam, sakit otot dan juga sendi." ;
+    ex:category 2 ;
+    ex:question_english "what is the symptoms of mild dengue fever" ;
+    ex:question_malay "apakah simptom demam denggi yang ringan" ;
+    ex:source "https://tips-kesihatan.com/demam-denggi-tanda-punca-dan-komplikasi/#google_vignette" .
+
+<http://example.org/dengue/qa83> a ex:QA_Pair ;
+    ex:answer_english "Experienced bleeding under the skin, gum bleeding and nose, decreased blood pressure and abdominal pain." ;
+    ex:answer_malay "Mengalami pendarahan di bawah kulit, pendarahan gusi dan hidung, penurunan tekanan darah dan kesakitan di bahagian perut." ;
+    ex:category 2 ;
+    ex:question_english "what is the symptoms of dengue fever" ;
+    ex:question_malay "apakah simptom demam denggi berdarah" ;
+    ex:source "https://dewankosmik.jendeladbp.my/2024/06/05/12087/" .
+
+<http://example.org/dengue/qa84> a ex:QA_Pair ;
+    ex:answer_english """~ Abdominal pain.
+~ Persistent vomiting, diarrhea that occurs three times or more a day.
+~ Collection of fluids such as ascites, pleural effusion, and more.
+~ Spontaneous bleeding.
+~ Irritation/confusion.
+~ Heartache.
+~ The rapid increase in blood concentration and rapid decrease in platelets.""" ;
+    ex:answer_malay """~ Sakit abdomen.
+~ Muntah berterusan, cirit birit yang berlaku tiga kali atau lebih dalam sehari.
+~ Pengumpulan cecair seperti asites, effusi pleura, dan lain-lain.
+~ Pendarahan spontan.
+~ Kerengsaan/kekeliruan.
+~ Kesakitan hati.
+~ Peningkatan pesat kepekatan darah dan penurunan pesat platelet.""" ;
+    ex:category 2 ;
+    ex:question_english "what are the signs of dengue warning" ;
+    ex:question_malay "apakah tandatanda amaran denggi" ;
+    ex:source "https://health.insuresavvy.com.my/ms_MY/dengue-fever/" .
+
+<http://example.org/dengue/qa85> a ex:QA_Pair ;
+    ex:answer_english "Rebuilding the immune system with leaves and extracts of plants such as giloy, fenugreek, turmeric, tulsi leaves, black pepper." ;
+    ex:answer_malay "Membina semula sistem imun dengan daun dan ekstrak tumbuh-tumbuhan seperti giloy, fenugreek, kunyit, daun tulsi, lada hitam." ;
+    ex:category 3 ;
+    ex:question_english "what is dengue treatment" ;
+    ex:question_malay "apakah rawatan denggi" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/6-cara-merawat-demam-denggi/" .
+
+<http://example.org/dengue/qa86> a ex:QA_Pair ;
+    ex:answer_english "Provide a drug that suits the content of ibuprofen or its aspirin." ;
+    ex:answer_malay "Berikan ubat yang sesuai dengan kandungan ibuprofen atau aspirinnya." ;
+    ex:category 3 ;
+    ex:question_english "what is the treatment for dengue patients" ;
+    ex:question_malay "apakah rawatan untuk pesakit denggi" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/6-cara-merawat-demam-denggi/" .
+
+<http://example.org/dengue/qa87> a ex:QA_Pair ;
+    ex:answer_english "Immediate hospitalization or blood transfusion in severe cases such as dengue fever (DHF)." ;
+    ex:answer_malay "Kemasukan ke hospital segera atau pemindahan darah dalam kes-kes yang teruk seperti demam denggi berdarah (DHF)." ;
+    ex:category 3 ;
+    ex:question_english "should dengue patients be hospitalized" ;
+    ex:question_malay "perlukah pesakit denggi dimasukkan ke hospital" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/6-cara-merawat-demam-denggi/" .
+
+<http://example.org/dengue/qa88> a ex:QA_Pair ;
+    ex:answer_english "Get enough rest and not physically and mentally." ;
+    ex:answer_malay "Dapatkan rehat secukupnya dan tidak menegangkan diri  secara fizikal dan mental." ;
+    ex:category 3 ;
+    ex:question_english "how to treat dengue fever" ;
+    ex:question_malay "bagamaina rawat demam denggi" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/6-cara-merawat-demam-denggi/" .
+
+<http://example.org/dengue/qa89> a ex:QA_Pair ;
+    ex:answer_english "Avoid dehydration by taking enough water." ;
+    ex:answer_malay "Elak dehidrasi dengan mengambil air yang mencukupi." ;
+    ex:category 3 ;
+    ex:question_english "how to treat dengue" ;
+    ex:question_malay "bagamaina rawat denggi" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/6-cara-merawat-demam-denggi/" .
+
+<http://example.org/dengue/qa9> a ex:QA_Pair ;
+    ex:answer_english "It is a type of aedes mosquito -borne disease through bites." ;
+    ex:answer_malay "Ia sejenis penyakit bawaan nyamuk aedes melalui gigitan." ;
+    ex:category 1 ;
+    ex:question_english "what is dengue fever" ;
+    ex:question_malay "apa itu demam denggi" ;
+    ex:source "https://qasehmuslimah-munirah.blogspot.com/2011/10/apa-itu-demam-denggi.html" .
+
+<http://example.org/dengue/qa90> a ex:QA_Pair ;
+    ex:answer_english "The use of painkillers and relieves fever such as paracetamol." ;
+    ex:answer_malay "Penggunaan ubat tahan sakit dan melegakan demam seperti paracetamol." ;
+    ex:category 3 ;
+    ex:question_english "how do i treat dengue fever" ;
+    ex:question_malay "bagaimana cara merawat demam denggi" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/cara-merawat-denggi" .
+
+<http://example.org/dengue/qa91> a ex:QA_Pair ;
+    ex:answer_english "Support treatment in the form of hydration through intravenous (IV) and blood or platelet transfusions if necessary." ;
+    ex:answer_malay "Rawatan sokongan  dalam bentuk Penghidratan melalui intravena (iv) dan Transfusi darah atau platelet jika perlu." ;
+    ex:category 3 ;
+    ex:question_english "what is another treatment" ;
+    ex:question_malay "apakah rawatan lain" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/cara-merawat-denggi" .
+
+<http://example.org/dengue/qa92> a ex:QA_Pair ;
+    ex:answer_english "Eat nutritious foods and drink enough water and rest." ;
+    ex:answer_malay "Makan makanan Berkhasiat dan Minum Air Yang Cukup dan Rehat Secukupnya." ;
+    ex:category 3 ;
+    ex:question_english "another way to treat dengue" ;
+    ex:question_malay "cara lain untuk merawat denggi" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/cara-merawat-denggi" .
+
+<http://example.org/dengue/qa93> a ex:QA_Pair ;
+    ex:answer_english """~ Immediately consult a doctor because there is no specific remedy for treating dengue fever.
+~ Rest and drink plenty of cooking water.
+~ Paracetamol medication can be taken to reduce fever and reduce pain.
+~ Take a shower.
+~ Avoid aspirin medicine for children.
+~ Antibiotics are not required.""" ;
+    ex:answer_malay """~ Segera berjumpa dengan doktor kerana tiada ubat yang khusus untuk merawat demam denggi.
+~ Rehat dan banyakkan minum air masak.
+~ Ubat paracetamol boleh diambil untuk menurunkan demam dan mengurangkan kesakitan.
+~ Mandi jerlum.
+~ Elakkan ubat aspirin bagi kanak-kanak.
+~ Antibiotik tidak diperlukan.""" ;
+    ex:category 3 ;
+    ex:question_english "what is the most effective type of treatment for dengue treatment" ;
+    ex:question_malay "apakah jenis rawatan yang paling berkesan untuk rawatan denggi" ;
+    ex:source "https://idengue.mysa.gov.my/tanda_denggi.html" .
+
+<http://example.org/dengue/qa94> a ex:QA_Pair ;
+    ex:answer_english """~ See the doctor.
+~ Rest as much as possible.
+~ Take paracetamol to help reduce fever and relieve pain.
+~ Drink plenty of water.
+~ Stay hydrated by drinking plenty of water.
+~ Ask your family members or friends to send you to the nearest hospital if you can't drive.""" ;
+    ex:answer_malay """~ Berjumpa doktor.
+~ Berehat sebanyak mungkin.
+~ Mengambil  paracetamol untuk membantu mengurangkan demam dan melegakan kesakitan.
+~ Banyakkan minum air.
+~ Kekal terhidrat dengan minum banyak air.
+~ Minta ahli keluarga atau rakan untuk menghantar anda ke hospital terdekat jika anda tidak dapat memandu.""" ;
+    ex:category 3 ;
+    ex:question_english "what is the way to overcome dengue fever" ;
+    ex:question_malay "apakah cara mengatasi demam denggi" ;
+    ex:source "https://www.pantai.com.my/ms/health-pulse/dengue-fever#:~:text=Denggi%20tidak%20berjangkit%20daripada%20manusia,rawatan%20perubatan%20segera%20adalah%20penting." .
+
+<http://example.org/dengue/qa95> a ex:QA_Pair ;
+    ex:answer_english """~ Drink a lot of water.
+~ Practice a balanced diet.
+~ Eat fruits and vegetables rich in vitamin C.
+~ Avoid spicy and greasy foods.""" ;
+    ex:answer_malay """~ Minum air dengan banyak.
+~ Amalkan pemakanan seimbang.
+~ Makan Buah dan Sayur yang Kaya dengan Vitamin C.
+~ Elakkan makanan pedas dan berminyak.""" ;
+    ex:category 3 ;
+    ex:question_english "what is the treatment for dengue patients" ;
+    ex:question_malay "apakah rawatan untuk pesakit denggi" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/makanan-untuk-demam-denggi" .
+
+<http://example.org/dengue/qa96> a ex:QA_Pair ;
+    ex:answer_english """~ Rehydration.
+~ Take a fever medication.
+~ Hospital treatment.""" ;
+    ex:answer_malay """~ Rehidrasi.
+~ Mengambil ubat demam.
+~ Rawatan hospital.""" ;
+    ex:category 3 ;
+    ex:question_english "what is the treatment for dengue fever" ;
+    ex:question_malay "apakh rawatan untuk demam denggi" ;
+    ex:source "https://rootofscience.com/demam-denggi/" .
+
+<http://example.org/dengue/qa97> a ex:QA_Pair ;
+    ex:answer_english """~ Take a nutritious diet and food that can strengthen the immune system.
+~ Rest.
+~ Eat paracetamol to relieve fever.""" ;
+    ex:answer_malay """~ Mengambil  diet berkhasiat dan makanan yang boleh menguatkan sistem imun.
+~ Berehat.
+~ Makan paracetamol untuk melegakan demam.""" ;
+    ex:category 3 ;
+    ex:question_english "what is the dengue treatment at home" ;
+    ex:question_malay "apakah rawatan denggi di rumah" ;
+    ex:source "https://hellodoktor.com/berjangkit/denggi/apa-ibu-bapa-perlu-tahu-jika-anak-demam-denggi/" .
+
+<http://example.org/dengue/qa98> a ex:QA_Pair ;
+    ex:answer_english """~ Hospital treatment immediately.
+~ Give fluid through intravenous.
+~ Careful monitoring of vital signs.
+~ Blood transfusion if necessary.
+~ Appropriate use of drugs.
+~ Rest completely.
+~ Nutrition and oral intake of fluid.
+~ Treatment of organ complications if occurred.
+~ Dengue shock treatment.""" ;
+    ex:answer_malay """~ Rawatan di Hospital Secara Segera.
+~ Beri Cecair Melalui Intravena.
+~ Pemantauan Rapi Tanda-Tanda Vital.
+~ Pemindahan Darah Jika Perlu.
+~ Penggunaan Ubat yang Sesuai.
+~ Rehat Sepenuhnya.
+~ Pemakanan dan Pengambilan Cecair Secara Oral.
+~ Rawatan Komplikasi Organ Jika Berlaku.
+~ Rawatan Renjatan Denggi.""" ;
+    ex:category 3 ;
+    ex:question_english "what is the way to treat dengue" ;
+    ex:question_malay "apakah cara merawat denggi berdarah" ;
+    ex:source "https://mypati.my/kesihatan/demam-denggi/denggi-berdarah/" .
+
+<http://example.org/dengue/qa99> a ex:QA_Pair ;
+    ex:answer_english """~ Rest enough.
+~ Stay hydrated.
+~ Get a doctor's treatment if necessary.""" ;
+    ex:answer_malay """~ Berehat secukupnya.
+~ Kekal Terhidrat.
+~ Dapatkan Rawatan Doktor Jika Perlu.""" ;
+    ex:category 3 ;
+    ex:question_english "what to do for the recovery of dengue fever" ;
+    ex:question_malay "apakah yang perlu dilakukan untuk pemulihan demam denggi" ;
+    ex:source "https://www.doctoroncall.com.my/health-centre/denggi/demam-denggi/kesan-deman-denggi" .
+
