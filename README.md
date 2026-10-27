@@ -6,6 +6,7 @@ A.	Installation Guide
 •	After extraction, open the extracted folder to ensure all files and subfolders are present.
 
 In Jupyter Notebook, run Step 2 to Step 4:
+
 2.	Data Pre-processing
 •	Open Jupyter Notebook 
 •	In the Jupyter file browser, navigate to the extracted project folder.
